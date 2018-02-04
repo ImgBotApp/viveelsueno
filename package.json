@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "viveelsueno",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Vive el Sueño",
+  "repository": "edisch/viveelsueno",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
