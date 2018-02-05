@@ -20,3 +20,8 @@ fields:
   - type: text
     name: link
     label: Link
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '1'
