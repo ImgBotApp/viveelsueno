@@ -10,6 +10,11 @@ fields:
 - type: text
   label: Subtitle
   name: subtitle
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '1'
 - type: field_group
   name: call_to_action_button
   label: Call to Action Button
@@ -20,8 +25,3 @@ fields:
   - type: text
     name: link
     label: Link
-- type: file
-  name: masthead_image
-  label: Masthead Image
-  config:
-    maxSize: '1'
