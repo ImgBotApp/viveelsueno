@@ -1,3 +1,11 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '1'
