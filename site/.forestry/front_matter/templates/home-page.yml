@@ -1,5 +1,6 @@
 ---
 pages:
+- mission.md
 - _index.md
 hide_body: false
 fields:
