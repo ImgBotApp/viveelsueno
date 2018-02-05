@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  label: Subtitle
+  name: subtitle
