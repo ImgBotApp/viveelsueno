@@ -7,4 +7,3 @@ label = "Haz una donación"
 link = "#donate"
 
 +++
-asdf
