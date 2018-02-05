@@ -7,3 +7,13 @@ fields:
 - type: text
   label: Subtitle
   name: subtitle
+- type: field_group
+  name: call_to_action_button
+  label: Call to Action Button
+  fields:
+  - type: text
+    name: label
+    label: Label
+  - type: text
+    name: link
+    label: Link
