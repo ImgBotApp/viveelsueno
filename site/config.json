@@ -1,0 +1,17 @@
+{
+  "baseURL": "/",
+  "title": "Vive el Sueño",
+  "disableKinds": [
+    "RSS",
+    "taxonomy",
+    "taxonomyTerm"
+  ],
+  "languages": {
+    "en": {
+      "weight": 1
+    },
+    "es": {
+      "weight": 2
+    }
+  }
+}
