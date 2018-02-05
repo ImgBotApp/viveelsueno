@@ -7,5 +7,15 @@
     <title>{{ .Title }}{{ if ne .IsHome true }} - {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="css/main.css"/>
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,900" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113329922-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-113329922-1');
+    </script>
+
   </head>
   <body>
