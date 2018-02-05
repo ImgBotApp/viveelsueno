@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <base href="{{ $.Site.BaseURL }}">
-    <title>{{ $.Site.Title }}</title>
+    <title>{{ .Title }}{{ if ne .IsHome true }} - {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="css/main.css"/>
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,900" rel="stylesheet">
   </head>

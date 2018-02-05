@@ -1,8 +1,8 @@
 <div class="masthead">
   <img class="masthead__image" src="/img/Masthead-Home.jpg" alt="">
   <div class="masthead__content">
-    <h1 class="masthead__title">{{ .Title }}</h1>
-    <h2 class="masthead__subtitle">Empowering Tico Entrepreneurs.</h2>
-    <a class="masthead__button" href="#donate">Make a donation</a>
+    <h1 class="masthead__title">{{ .Params.title }}</h1>
+    <h2 class="masthead__subtitle">{{ .Params.subtitle }}</h2>
+    <a class="masthead__button" href="{{ .Params.call_to_action_button.link }}">{{ .Params.call_to_action_button.label }}</a>
   </div>
 </div>
