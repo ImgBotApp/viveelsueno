@@ -35,3 +35,13 @@ fields:
     label: Text
     config:
       wysiwyg: false
+  - type: field_group
+    label: Button
+    name: button
+    fields:
+    - type: text
+      name: url
+      label: URL
+    - type: text
+      name: text
+      label: Text
