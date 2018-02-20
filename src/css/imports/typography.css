@@ -1,3 +1,5 @@
 html, body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
   font-family: 'Nunito Sans', sans-serif;
 }

@@ -1,16 +1,20 @@
 .masthead {
   position: relative;
-}
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 100%;
 
-.masthead__image {
-  width: 100%;
+  @media (min-width: 560px) {
+    padding-bottom: 56.25%;
+  }
 }
 
 .masthead__content {
-  z-index: 100;
+  z-index: 2;
   position: absolute;
   padding: 5rem 0 1rem;
-  bottom: 4px;
+  bottom: 0;
   left: 0;
   width: 100%;
   text-align: center;
@@ -45,11 +49,11 @@
 }
 
 .masthead__subtitle {
-  font-size: 1.25rem;
+  font-size: .9rem;
   margin: 0 0 1rem 0;
 
   @media (min-width: 480px) {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   
   @media (min-width: 720px) {

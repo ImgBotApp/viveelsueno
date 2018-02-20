@@ -1,8 +1,28 @@
+<div class="nav__flyout">
+  <button class="nav__flyout-close"></button>
+  <div class="nav__flyout-links">
+    {{ range .Site.Data.menus.Main }}
+      <a href="{{ .link | relLangURL }}" class="nav__flyout-link">{{ i18n .label }}</a>
+    {{ end }}
+    {{ range .Translations }}
+      <a href="{{ .URL }}" class="nav__flyout-link">{{ i18n .Lang }}</a>
+    {{ end }}
+  </div>
+</div>
 <nav class="nav" role="navigation">
   <div class="nav__content">
-    <a class="nav__logo-link" href='{{ "/" | relLangURL }}'>
+    <a href='{{ "/" | relLangURL }}'>
       <img class="nav__logo" src="/img/Logo.png" alt="logo">
     </a>
+    <button class="nav__flyout-open"></button>
+    <div class="nav__socials">
+      <a href="{{ .Site.Data.social.Facebook.url }}">
+        <img class="nav__social" src="/img/Facebook.png" alt="facebook">
+      </a>
+      <a href="mailto:{{ .Site.Data.social.Email.address }}">
+        <img class="nav__social" src="/img/Email.png" alt="email">
+      </a>
+    </div>
     <div class="nav__links">
       {{ range .Site.Data.menus.Main }}
         <a href="{{ .link | relLangURL }}" class="nav__link">{{ i18n .label }}</a>

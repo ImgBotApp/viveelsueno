@@ -1,4 +1,5 @@
-// JS Goes here - ES6 supported
+import $ from 'jquery';
 
-// Say hello
-console.log("🦊 Hello! Edit me in src/js/app.js");
+$('.nav__flyout-open, .nav__flyout-close').click(function () {
+  $('.nav__flyout').toggleClass('nav__flyout--active');
+});
