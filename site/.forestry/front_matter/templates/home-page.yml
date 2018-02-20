@@ -45,3 +45,6 @@ fields:
     - type: text
       name: text
       label: Text
+- type: field_group
+  name: success_stories
+  label: Success Stories
