@@ -51,7 +51,7 @@
 
   &:hover,
   &:focus {
-    background: #62A929;
+    background: #569524;
     border-radius: 3px;
   }
 }
@@ -66,6 +66,10 @@
   }
 }
 
+.nav__social-link {
+  text-decoration: none;
+}
+
 .nav__social {
   margin-right: .25rem;
   padding: 4px;
@@ -74,7 +78,7 @@
 
   &:hover,
   &:focus {
-    background: #62A929;
+    background: #569524;
     border-radius: 3px;
   }
 }
@@ -151,7 +155,7 @@
 
   &:hover,
   &:focus {
-    background-color: #62A929;
+    background-color: #569524;
     color: #fff;
   }
 }

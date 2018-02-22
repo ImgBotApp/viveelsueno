@@ -1,6 +1,6 @@
 .footer {
   padding: .5rem 2rem;
-  background-color: #62A929;
+  background-color: #569524;
   font-weight: 900;
 }
 
@@ -20,6 +20,10 @@
   }
 }
 
+.footer__social-link {
+  text-decoration: none;
+}
+
 .footer__social {
   margin-right: .25rem;
   width: 24px;
@@ -28,5 +32,17 @@
 
   &:visited {
     text-decoration: none;
+  }
+}
+
+.footer__copyright {
+  line-height: 32px;
+  color: #fff;
+  display: block;
+  text-align: left;
+
+  @media (min-width: 480px) {
+    float: right;
+    display: inline-block;
   }
 }

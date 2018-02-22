@@ -2,12 +2,15 @@
     {{ range .Site.Data.menus.Main }}
       <a href="{{ .link | relLangURL }}" class="footer__link">{{ i18n .label }}</a>
     {{ end }}
-    <a href="{{ .Site.Data.social.Facebook.url }}" target="blank">
+    <a class="footer__social-link" href="{{ .Site.Data.social.Facebook.url }}" target="blank">
       <img class="footer__social" src="/img/Facebook.png" alt="facebook">
     </a>
-    <a href="mailto:{{ .Site.Data.social.Email.address }}">
+    <a class="footer__social-link" href="mailto:{{ .Site.Data.social.Email.address }}">
       <img class="footer__social" src="/img/Email.png" alt="email">
     </a>
+    <span class="footer__copyright">
+      &copy; Vive el Sueño 2018
+    </span>
   </div>
   
   <script src="app.js"></script>

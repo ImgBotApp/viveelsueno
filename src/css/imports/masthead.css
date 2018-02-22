@@ -77,8 +77,8 @@
 
   &:hover,
   &:focus {
-    background-color: #62A929;
-    border: 3px solid #62A929;
+    background-color: #569524;
+    border: 3px solid #569524;
   }
 
   @media (min-width: 480px) {
