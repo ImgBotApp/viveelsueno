@@ -1,4 +1,6 @@
 ---
+pages:
+- success-story/april.md
 hide_body: false
 fields:
 - type: text
