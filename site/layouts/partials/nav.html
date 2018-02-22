@@ -1,4 +1,4 @@
-<div class="nav__flyout">
+<div class="nav__flyout" tabindex="-1" style="display: none;">
   <button class="nav__flyout-close"></button>
   <div class="nav__flyout-links">
     {{ range .Site.Data.menus.Main }}
@@ -16,7 +16,7 @@
     </a>
     <button class="nav__flyout-open"></button>
     <div class="nav__socials">
-      <a href="{{ .Site.Data.social.Facebook.url }}">
+      <a href="{{ .Site.Data.social.Facebook.url }}" target="blank">
         <img class="nav__social" src="/img/Facebook.png" alt="facebook">
       </a>
       <a href="mailto:{{ .Site.Data.social.Email.address }}">

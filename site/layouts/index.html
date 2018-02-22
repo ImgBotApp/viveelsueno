@@ -1,5 +1,16 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 {{ partial "masthead" . }}
-{{ .Content }}
+<main class="content" role="main">
+  <p>
+    {{ .Params.blurb.text }}
+  </p>
+  <a href="{{ .Params.blurb.button.url }}" class="button">
+    {{ .Params.blurb.button.text }}
+  </a>
+  <div class="success-stories">
+    <h2 class="success-stories__title">{{ .Params.success_stories.title }}</h2>
+    
+  </div>
+</main>
 {{ partial "footer" . }}

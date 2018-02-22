@@ -98,12 +98,6 @@
   background-size: cover;
   border: none;
 
-  &:hover,
-  &:focus {
-    background-color: #62A929;
-    border-radius: 3px;
-  }
-
   @media (min-width: 720px) {
     display: none;
   }
@@ -120,10 +114,6 @@
   background-position: center;
   background-size: cover;
   border: none;
-
-  @media (min-width: 720px) {
-    display: none;
-  }
 }
 
 .nav__flyout-links {
@@ -140,9 +130,9 @@
   max-width: 278px;
   z-index: 3;
   background-color: #fff;
-  transform: translateX(100%);
-  transition: transform .4s ease;
   border-left: 1px solid #eee;
+  transition: transform .4s ease;
+  transform: translateX(100%);
 }
 
 .nav__flyout--active {

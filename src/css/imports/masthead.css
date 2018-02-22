@@ -69,14 +69,19 @@
   display: inline-block;
   border: 3px solid #fff;
   border-radius: 3px;
-  padding: .5rem;
   text-decoration: none;
   color: #fff;
   transition: background .3s ease, border .3s ease;
+  padding: .5rem;
+  font-size: .85rem;
 
   &:hover,
   &:focus {
     background-color: #62A929;
     border: 3px solid #62A929;
+  }
+
+  @media (min-width: 480px) {
+    font-size: 1rem;
   }
 }

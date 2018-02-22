@@ -1,0 +1,16 @@
+.button {
+  color: #fff;
+  background-color: #62A929;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: .5rem .75rem;
+
+  &:hover,
+  &:focus {
+    background-color: #508921;
+  }
+
+  &:focus {
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,32 @@
+.footer {
+  padding: .5rem 2rem;
+  background-color: #62A929;
+  font-weight: 900;
+}
+
+.footer__link {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+  line-height: 32px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+.footer__social {
+  margin-right: .25rem;
+  width: 24px;
+  height: 24px;
+  vertical-align: text-bottom;
+
+  &:visited {
+    text-decoration: none;
+  }
+}
