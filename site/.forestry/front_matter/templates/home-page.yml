@@ -1,8 +1,8 @@
 ---
 pages:
-- _index.md
-- mission.md
 - _index.es.md
+- mission.md
+- _index.md
 hide_body: false
 fields:
 - type: text
@@ -52,3 +52,7 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: text
+    label: More Text
+    name: more_text
+    description: Read more button label
