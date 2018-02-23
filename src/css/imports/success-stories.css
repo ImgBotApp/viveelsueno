@@ -13,3 +13,29 @@
     font-size: 2.25rem;
   }
 }
+
+.success-stories__stories {
+  display: flex;
+  max-width: 720px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.success-stories__teaser {
+  text-align: center;
+  display: block;
+  flex: 100%;
+
+  @media (min-width: 760px) {
+    flex: 3;
+  }
+}
+
+.success-stories__teaser-link {
+  text-decoration: none;
+  color: #585454;
+}
+
+.success-stories__teaser-image {
+  width: 100%;
+}

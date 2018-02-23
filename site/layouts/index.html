@@ -10,7 +10,13 @@
   </a>
   <div class="success-stories">
     <h2 class="success-stories__title">{{ .Params.success_stories.title }}</h2>
-    
+    <div class="success-stories__stories">
+      {{ range where .Site.Pages "Section" "success-story" }}
+        {{ if eq .Kind "page" }}
+          {{ .Render "teaser" }}
+        {{ end }}
+      {{ end }}
+    </div>
   </div>
 </main>
 {{ partial "footer" . }}
