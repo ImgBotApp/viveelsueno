@@ -12,5 +12,8 @@ fields:
   name: title
   label: Title
 - type: file
+  name: masthead_image
+  label: Masthead Image
+- type: file
   name: teaser_image
   label: Teaser Image
