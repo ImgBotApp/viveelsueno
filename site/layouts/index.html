@@ -17,7 +17,7 @@
         {{ end }}
       {{ end }}
     </div>
-    <a class="button" href="/success-story">{{ .Params.success_stories.more_text }}</a>
+    <a class="button" href='{{ "/success-story" | relLangURL }}'>{{ .Params.success_stories.more_text }}</a>
   </div>
 </main>
 {{ partial "footer" . }}
