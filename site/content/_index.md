@@ -13,6 +13,7 @@ url = "/about"
 label = "Make a donation"
 link = "#donate"
 [success_stories]
+more_text = "read more stories"
 title = "Success Stories"
 
 +++
