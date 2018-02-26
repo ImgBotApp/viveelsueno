@@ -2,6 +2,11 @@
   padding: .5rem 2rem;
   background-color: #569524;
   font-weight: 900;
+  font-size: .8rem;
+
+  @media (min-width: 960px) {
+    font-size: 1rem;
+  }
 }
 
 .footer__link {
@@ -26,9 +31,14 @@
 
 .footer__social {
   margin-right: .25rem;
-  width: 24px;
-  height: 24px;
+  width: 16px;
+  height: 16px;
   vertical-align: text-bottom;
+
+  @media (min-width: 960px) {
+    width: 24px;
+    height: 24px;
+  }
 
   &:visited {
     text-decoration: none;
@@ -41,7 +51,7 @@
   display: block;
   text-align: left;
 
-  @media (min-width: 480px) {
+  @media (min-width: 720px) {
     float: right;
     display: inline-block;
   }

@@ -2,6 +2,7 @@
   color: #fff;
   background-color: #569524;
   text-decoration: none;
+  text-transform: lowercase;
   border-radius: 3px;
   padding: .5rem .75rem;
 
