@@ -1,10 +1,10 @@
 ---
 pages:
-- success-story/graci.md
-- success-story/warren.md
-- success-story/april.es.md
-- success-story/graci.es.md
 - success-story/warren.es.md
+- success-story/graci.es.md
+- success-story/warren.md
+- success-story/graci.md
+- success-story/april.es.md
 - success-story/april.md
 hide_body: false
 fields:

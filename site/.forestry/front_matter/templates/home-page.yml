@@ -1,8 +1,7 @@
 ---
 pages:
-- _index.es.md
-- mission.md
 - _index.md
+- _index.es.md
 hide_body: false
 fields:
 - type: text
