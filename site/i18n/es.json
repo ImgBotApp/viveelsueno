@@ -18,5 +18,9 @@
   {
     "id": "Home",
     "translation": "Inicio"
+  },
+  {
+    "id": "Copyright",
+    "translation": "© Vive el Sueño 2018, una organización 501(c)(3)"
   }
 ]
