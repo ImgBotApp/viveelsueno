@@ -1,0 +1,15 @@
+<div class="success-stories">
+  <h2 class="success-stories__title">{{ .Params.success_stories.title }}</h2>
+  <div class="success-stories__stories">
+    {{ $.Scratch.Add "c1" 0 }}
+    {{ range where .Site.Pages.ByPublishDate "Section" "success-story" }}
+      {{ if eq .Kind "page" }}
+        {{ if lt ($.Scratch.Get "c1") 3 }}
+          {{ .Render "teaser" }}
+          {{ $.Scratch.Add "c1" 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <a class="button" href='{{ "/success-story" | relLangURL }}'>{{ .Params.success_stories.more_text }}</a>
+</div>
