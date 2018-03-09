@@ -1,7 +1,7 @@
 +++
 date = "2018-02-05T18:38:36Z"
 masthead_image = "/uploads/2018/02/23/vive-el-sueno-5.jpg"
-title = "Aprender"
+title = "Acerca de nuestro programa"
 type = "content-page"
 
 +++

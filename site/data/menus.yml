@@ -1,6 +1,6 @@
 ---
 Main:
-  - label: Learn
-    link: '/learn'
+  - label: About
+    link: '/about'
   - label: Donate
     link: '/donate'
