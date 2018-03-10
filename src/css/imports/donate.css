@@ -1,0 +1,97 @@
+.donate {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.donate__left {
+  flex: 1 1 100%;
+  background: #6B4A20;
+  color: #fff;
+
+  @media (min-width: 840px) {
+    flex: 1 1;
+  }
+}
+
+.donate__right {
+  flex: 1 1 100%;
+
+  @media (min-width: 840px) {
+    flex: 1 1;
+  }
+}
+
+.donate .donate__title {
+  margin-bottom: 1rem;
+}
+
+.donate__donation-type {
+  position: relative;
+  padding-left: 1rem;
+  margin-left: 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  & .donate__donation-type-radio:checked ~ .donate__donation-type-label::after {
+    opacity: 1;
+  }
+}
+
+.donate__donation-type-radio {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.donate__donation-type-label {
+  position: absolute;
+  top: .3rem;
+  left: 0;
+  height: .75rem;
+  width: .75rem;
+  background-color: #eee;
+  border-radius: 50%;
+
+  &::after {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 2px;
+    left: 2px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fe8300;
+    opacity: 0;
+    transition: opacity .3s ease;
+  }
+}
+
+.donate__donation-email {
+  position: relative;
+  width: 50%;
+  margin: 1rem auto;
+}
+
+.donate__donation-email-label {
+  position: absolute;
+  left: .5rem;
+  top: .5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #666;
+}
+
+.donate__donation-email-input {
+  width: 100%;
+  font-size: 1rem;
+  font-family: 'Nunito Sans', sans-serif;
+  padding: .5rem;
+  background: #eee;
+  border-radius: 3px;
+  border: none;
+}

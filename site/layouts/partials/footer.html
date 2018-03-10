@@ -1,4 +1,4 @@
-  <div class="footer">
+  <footer class="footer" role="contentinfo">
     <a class="footer__link" href='{{ "/" | relLangURL }}'>{{ i18n "Home" }}</a>
     {{ range .Site.Data.menus.Main }}
       <a href="{{ .link | relLangURL }}" class="footer__link">{{ i18n .label }}</a>
@@ -12,7 +12,7 @@
     <span class="footer__copyright">
       {{ i18n "Copyright" }}
     </span>
-  </div>
+  </footer>
   
   <script src="app.js"></script>
 
