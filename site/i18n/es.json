@@ -22,5 +22,17 @@
   {
     "id": "Copyright",
     "translation": "© Vive el Sueño 2018, una organización 501(c)(3)"
+  },
+  {
+    "id": "One time donation",
+    "translation": "Donación de una vez"
+  },
+  {
+    "id": "Monthly contribution",
+    "translation": "Contribución mensual"
+  },
+  {
+    "id": "Email",
+    "translation": "Email"
   }
 ]

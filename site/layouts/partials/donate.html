@@ -1,25 +1,30 @@
-<div class="donate">
+<div class="donate" id="donate">
   <div class="donate__left">
-    <h2 class="donate__title">{{ .Params.donate.title }}</h2>
+    <h2 class="donate__title">{{ i18n "Donate" }}</h2>
     <form action="">
       <div class="donate__donation-types">
         <label for="donation-type-1" class="donate__donation-type">
-          <input checked type="radio" id="donation-type-1" name="donation-type" class="donate__donation-type-radio">
+          <input checked type="radio" id="donation-type-1" name="donation-type" class="donate__donation-type-radio" value="Single">
           <span class="donate__donation-type-checkbox"></span>
-          <span class="donate__donation-type-label">One time donation</span>
+          <span class="donate__donation-type-label">{{ i18n "One time donation" }}</span>
         </label>
         <label for="donation-type-2" class="donate__donation-type">
-          <input type="radio" id="donation-type-2" name="donation-type" class="donate__donation-type-radio">
+          <input type="radio" id="donation-type-2" name="donation-type" class="donate__donation-type-radio" value="Recurring">
           <span class="donate__donation-type-checkbox"></span>
-          <span class="donate__donation-type-label">Monthly contribution</span>
+          <span class="donate__donation-type-label">{{ i18n "Monthly contribution" }}</span>
         </label>
       </div>
       <div class="donate__donation-email js-input-placeholder">
-        <label class="donate__donation-email-label" for="donation-email">Email</label>
+        <label class="donate__donation-email-label" for="donation-email">{{ i18n "Email" }}</label>
         <input type="email" id="donation-email" name="donation-email" class="donate__donation-email-input js-input-placeholder__input">
       </div>
+      <input type="submit">
+      <p class="donate__blurb">
+        {{ index $.Site.Data.site.Donate.Blurb .Lang }}
+      </p>
     </form>
   </div>
   <div class="donate__right">
+    <img class="donate__image" src="{{ $.Site.Data.site.Donate.Image }}" alt="Participant of Vive el Sueño">
   </div>
 </div>

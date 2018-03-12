@@ -1,2 +1,7 @@
 ---
   Masthead: "/uploads/2018/02/05/Masthead-Home.jpg"
+  Donate:
+    Blurb:
+      en: "english blurb for donation"
+      es: "español para los donaciones"
+    Image: "/img/Participant.jpg"

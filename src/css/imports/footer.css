@@ -46,12 +46,13 @@
 }
 
 .footer__copyright {
-  line-height: 32px;
+  line-height: 1;
   color: #fff;
   display: block;
   text-align: left;
 
   @media (min-width: 720px) {
+    line-height: 32px;
     float: right;
     display: inline-block;
   }

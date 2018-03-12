@@ -3,4 +3,4 @@ Main:
   - label: About
     link: '/about'
   - label: Donate
-    link: '/donate'
+    link: '#donate'
