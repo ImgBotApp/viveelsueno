@@ -1,30 +1,54 @@
 <div class="donate" id="donate">
   <div class="donate__left">
     <h2 class="donate__title">{{ i18n "Donate" }}</h2>
-    <form action="">
-      <div class="donate__donation-types">
-        <label for="donation-type-1" class="donate__donation-type">
-          <input checked type="radio" id="donation-type-1" name="donation-type" class="donate__donation-type-radio" value="Single">
-          <span class="donate__donation-type-checkbox"></span>
-          <span class="donate__donation-type-label">{{ i18n "One time donation" }}</span>
-        </label>
-        <label for="donation-type-2" class="donate__donation-type">
-          <input type="radio" id="donation-type-2" name="donation-type" class="donate__donation-type-radio" value="Recurring">
-          <span class="donate__donation-type-checkbox"></span>
-          <span class="donate__donation-type-label">{{ i18n "Monthly contribution" }}</span>
-        </label>
-      </div>
+    <form id="form-donate" action="https://www.paypal.com/cgi-bin/webscr">
+      <input type="hidden" name="cmd" value="_donations">
+      <input type="hidden" name="business" value="viveelsuenonosara1@gmail.com">
+      <input type="hidden" name="currency_code" value="USD">
+      <input type="hidden" name="lc" value="{{ .Lang }}">
       <div class="donate__donation-email js-input-placeholder">
         <label class="donate__donation-email-label" for="donation-email">{{ i18n "Email" }}</label>
-        <input type="email" id="donation-email" name="donation-email" class="donate__donation-email-input js-input-placeholder__input">
+        <input type="email" id="donation-email" name="email" required class="donate__donation-email-input js-input-placeholder__input">
       </div>
-      <input type="submit">
+      <div class="donate__donation-amounts">
+        <label for="donation-amount-1" class="donate__donation-amount">
+          <input checked type="radio" id="donation-amount-1" name="amount" class="donate__donation-amount-radio" value="10">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">$10</span>
+        </label>
+        <label for="donation-amount-2" class="donate__donation-amount">
+          <input type="radio" id="donation-amount-2" name="amount" class="donate__donation-amount-radio" value="25">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">$25</span>
+        </label>
+        <label for="donation-amount-3" class="donate__donation-amount">
+          <input checked type="radio" id="donation-amount-3" name="amount" class="donate__donation-amount-radio" value="50">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">$50</span>
+        </label>
+        <label for="donation-amount-4" class="donate__donation-amount">
+          <input type="radio" id="donation-amount-4" name="amount" class="donate__donation-amount-radio" value="100">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">$100</span>
+        </label>
+        <label for="donation-amount-5" class="donate__donation-amount">
+          <input checked type="radio" id="donation-amount-5" name="amount" class="donate__donation-amount-radio" value="250">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">$250</span>
+        </label>
+        <label for="donation-amount-6" class="donate__donation-amount">
+          <input checked type="radio" id="donation-amount-6" name="amount" class="donate__donation-amount-radio" value="">
+          <span class="donate__donation-amount-checkbox"></span>
+          <span class="donate__donation-amount-label">{{ i18n "More" }}</span>
+        </label>
+      </div>
+      <input class="donate__submit" type="submit" value='{{ i18n "Donate" }}'>
       <p class="donate__blurb">
         {{ index $.Site.Data.site.Donate.Blurb .Lang }}
       </p>
     </form>
   </div>
   <div class="donate__right">
-    <img class="donate__image" src="{{ $.Site.Data.site.Donate.Image }}" alt="Participant of Vive el Sueño">
+    <div style="background-image: url({{ $.Site.Data.site.Donate.Image }});" class="donate__image"></div>
   </div>
 </div>
