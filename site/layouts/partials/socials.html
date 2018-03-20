@@ -1,17 +1,23 @@
 <div class="socials">
   <div class="socials__left">
-
   </div>
   <div class="socials__right">
     <h3 class="socials__title">Follow us</h3>
-    <ul>
-      <li>
-        <img src="/img/" alt="">
-      </li>
-      <li>
-        <img src="/img/" alt="">
-      </li>
-    </ul>
+    <div class="socials__buttons">
+      <a class="socials__button" href="{{ $.Site.Data.social.Facebook.url }}" target="_blank">
+        <img class="socials__icon" src="/img/Icon-Facebook.png" alt="">
+      </a>
+      <a class="socials__button" href="{{ $.Site.Data.social.Instagram.url }}" target="_blank">
+        <img class="socials__icon" src="/img/Icon-Instagram.png" alt="">
+      </a>
+    </div>
     <h3 class="socials__title">Join our newsletter</h3>
+    <form action="">
+      <div class="socials__email js-input-placeholder">
+        <label class="socials__email-label" for="donation-email">{{ i18n "Email" }}</label>
+        <input class="socials__email-input js-input-placeholder__input" type="email" id="donation-email" name="email" required>
+      </div>
+      <input class="socials__submit" type="submit" value='{{ i18n "Subscribe" }}'>
+    </form>
   </div>
 </div>
