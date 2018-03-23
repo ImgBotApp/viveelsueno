@@ -19,3 +19,8 @@ fields:
   label: Teaser Image
   config:
     maxSize: '2'
+- type: datetime
+  name: date
+  label: Published
+  config:
+    required: true
