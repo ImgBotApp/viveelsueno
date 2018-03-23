@@ -13,6 +13,13 @@
             Historias de Éxito
           {{ end }}
         {{ end }}
+        {{ if eq .Section "story" }}
+          {{ if eq .Lang "en" }}
+            Stories
+          {{ else }}
+            Historias
+          {{ end }}
+        {{ end }}
       {{ else }}
         {{ .Title }}
       {{ end }}

@@ -4,7 +4,26 @@
 {{ end }}
 <div class="masthead" style='background-image: url({{ $.Scratch.Get "url" }});'>
   <div class="masthead__content">
-    <h1 class="masthead__title">{{ .Title }}</h1>
+    <h1 class="masthead__title">
+      {{ if eq .Kind "section" }}
+        {{ if eq .Section "success-story" }}
+          {{ if eq .Lang "en" }}
+            Success Stories
+          {{ else }}
+            Historias de Éxito
+          {{ end }}
+        {{ end }}
+        {{ if eq .Section "story" }}
+          {{ if eq .Lang "en" }}
+            Stories
+          {{ else }}
+            Historias
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ .Title }}
+      {{ end }}
+    </h1>
     {{ if .Params.subtitle }}
       <h2 class="masthead__subtitle">{{ .Params.subtitle }}</h2>
     {{ end }}

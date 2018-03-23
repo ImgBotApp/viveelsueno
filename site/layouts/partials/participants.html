@@ -1,0 +1,15 @@
+<div class="participants">
+  <h2 class="participants__title">{{ i18n "Our Participants" }}</h2>
+  <div class="participants__list">
+    {{ .Scratch.Add "c1" 0 }}
+    {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "participant" }}
+      {{ if eq .Kind "page" }}
+        {{ if lt (.Scratch.Get "c1") 3 }}
+          {{ .Render "teaser" }}
+          {{ .Scratch.Add "c1" 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <a class="button" href='{{ "/paricipant" | relLangURL }}'>{{ i18n "find more people" }}</a>
+</div>
