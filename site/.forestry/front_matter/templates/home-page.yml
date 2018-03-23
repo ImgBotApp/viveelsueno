@@ -94,3 +94,5 @@ fields:
     - type: textarea
       name: blurb
       label: Blurb
+      config:
+        wysiwyg: true
