@@ -18,3 +18,8 @@ fields:
   label: Phone number
   config:
     required: true
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
