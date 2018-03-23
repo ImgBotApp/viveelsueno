@@ -1,0 +1,18 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: text
+  name: brand_name
+  label: Brand Name
+  config:
+    required: true
+- type: text
+  name: phone_number
+  label: Phone number
+  config:
+    required: true
