@@ -45,7 +45,6 @@ $(document).ready(() => {
     format: 'json',
     _: name
   }, (data) => {
-    console.log(data);
     if (data.query.results) {
       items = data.query.results.json.graphql.user.edge_owner_to_timeline_media.edges;
       $.each(items, (n, item) => {
