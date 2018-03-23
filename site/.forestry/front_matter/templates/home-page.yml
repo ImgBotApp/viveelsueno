@@ -44,3 +44,6 @@ fields:
     - type: text
       name: text
       label: Text
+- type: field_group
+  name: program
+  label: Program
