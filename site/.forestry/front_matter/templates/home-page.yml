@@ -44,14 +44,3 @@ fields:
     - type: text
       name: text
       label: Text
-- type: field_group
-  name: success_stories
-  label: Success Stories
-  fields:
-  - type: text
-    name: title
-    label: Title
-  - type: text
-    label: More Text
-    name: more_text
-    description: Read more button label
