@@ -82,6 +82,8 @@ fields:
     - type: textarea
       name: blurb
       label: Blurb
+      config:
+        wysiwyg: true
   - type: field_group
     name: item_4
     label: Item 4
