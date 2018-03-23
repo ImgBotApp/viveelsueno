@@ -9,6 +9,11 @@ fields:
   name: title
   config:
     required: true
+- type: datetime
+  name: date
+  label: Published
+  config:
+    required: true
 - type: file
   name: masthead_image
   label: Masthead Image
@@ -19,8 +24,3 @@ fields:
   label: Teaser Image
   config:
     maxSize: '2'
-- type: datetime
-  name: date
-  label: Published
-  config:
-    required: true
