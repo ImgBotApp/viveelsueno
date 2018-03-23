@@ -6,3 +6,8 @@ fields:
   name: title
   config:
     required: true
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'
