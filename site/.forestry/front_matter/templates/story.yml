@@ -1,6 +1,4 @@
 ---
-pages:
-- story--1.md
 hide_body: false
 fields:
 - type: text
@@ -11,5 +9,10 @@ fields:
 - type: file
   name: masthead_image
   label: Masthead Image
+  config:
+    maxSize: '2'
+- type: file
+  name: teaser_image
+  label: Teaser Image
   config:
     maxSize: '2'
