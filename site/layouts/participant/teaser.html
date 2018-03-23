@@ -1,6 +1,6 @@
 <div class="participant__teaser">
   <a class="participant__teaser-link" href="{{ .URL }}">
-    <img class="participant__teaser-image" src="{{ .Params.teaser_image }}" alt="">
+    <div class="participant__teaser-image" style="background-image: url('{{ .Params.teaser_image }}');"></div>
     <h3 class="participant__teaser-title">{{ .Title }}</h3>
   </a>
 </div>
