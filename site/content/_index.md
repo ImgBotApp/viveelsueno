@@ -20,9 +20,9 @@ blurb = "We provide 40 hours of intensive real-world business training, English 
 title = "Gets our students ahead"
 [program.item_3]
 blurb = "We provide 40 hours of intensive real-world business training, English classes, social media coaching and professional logo design which helps our students get on their feet and straight into their market."
-title = "Makes a real difference"
+title = "Gets our students ahead"
 [program.item_4]
 blurb = "We provide 40 hours of intensive real-world business training, English classes, social media coaching and professional logo design which helps our students get on their feet and straight into their market."
-title = "Gets our students ahead"
+title = "Makes a real difference"
 
 +++

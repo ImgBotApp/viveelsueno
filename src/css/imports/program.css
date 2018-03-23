@@ -1,0 +1,48 @@
+.program {
+  max-width: 960px;
+  margin: 4rem auto;
+  text-align: left;
+}
+
+.program__section {
+  display: flex;
+  flex-wrap: wrap;
+
+  @media (min-width: 760px) {
+    flex-wrap: nowrap;
+  }
+}
+
+.program__section-side {
+  flex: 1 1 100%;
+  margin: 0 2rem;
+
+  @media (min-width: 760px) {
+    flex: 1 1;
+  }
+}
+
+.program__header {
+  text-align: center;
+  margin-top: 0;
+}
+
+.program__title {
+  font-size: 1.5rem;
+  text-align: center;
+
+  @media (min-width: 760px) {
+    text-align: left;
+  }
+}
+
+p.program__blurb {
+  max-width: none;
+  margin: 1.5rem 0;
+  font-size: 1.1rem;
+  text-align: center;
+
+  @media (min-width: 760px) {
+    text-align: left;
+  }
+}
