@@ -114,3 +114,17 @@
     text-decoration: underline;
   }
 }
+
+.socials__instagram-photo {
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  width: 128px;
+  height: 128px;
+  margin: .25rem;
+  border-radius: 3px;
+
+  &:hover {
+    filter: brightness(.6);
+  }
+}

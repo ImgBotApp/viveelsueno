@@ -1,7 +1,7 @@
 <div class="stories">
   <div class="stories__list">
     {{ .Scratch.Add "c1" 0 }}
-    {{ range where .Site.Pages.ByPublishDate "Section" "story" }}
+    {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "story" }}
       {{ if eq .Kind "page" }}
         {{ if lt (.Scratch.Get "c1") 3 }}
           {{ .Render "teaser" }}

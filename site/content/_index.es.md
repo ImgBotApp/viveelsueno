@@ -11,8 +11,5 @@ url = "/es/about"
 [call_to_action_button]
 label = "Haz una donación"
 link = "#donate"
-[success_stories]
-more_text = "ver más historias"
-title = " Historias de éxito"
 
 +++

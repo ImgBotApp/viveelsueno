@@ -1,5 +1,4 @@
 import $ from 'jquery';
-import Instafeed from 'instafeed.js';
 
 $('.nav__flyout-open, .nav__flyout-close').click(() => {
   const $flyout = $('.nav__flyout');
@@ -39,11 +38,29 @@ $(document).ready(() => {
     }
   });
 
-  new Instafeed({
-    get: 'user',
-    userId: '3113517845',
-    links: true,
-    clientId: '98e132bd0e03453fb170d30c75005351',
-    accessToken: '798431261.1677ed0.ba2f3761781e4786b42d2a3bc7770dbd'
-  }).run();
+  const name = 'viveelsueno';
+  let items;
+  $.getJSON('https://query.yahooapis.com/v1/public/yql', {
+    q: 'select * from json where url="https://www.instagram.com/' + name + '/?__a=1"',
+    format: 'json',
+    _: name
+  }, (data) => {
+    console.log(data);
+    if (data.query.results) {
+      items = data.query.results.json.graphql.user.edge_owner_to_timeline_media.edges;
+      $.each(items, (n, item) => {
+        if (n < 6) {
+          const node = item.node;
+          $('.socials__instagram-feed').append(
+            $('<a/>', {
+              class: 'socials__instagram-photo',
+              href: 'https://www.instagram.com/p/' + node.shortcode,
+              target: '_blank'
+            }).css({
+              backgroundImage: 'url(' + node.thumbnail_src + ')'
+            }));
+        }
+      });
+    }
+  });
 });

@@ -12,10 +12,5 @@ url = "/about"
 [call_to_action_button]
 label = "Make a donation"
 link = "#donate"
-[success_stories]
-more_text = "read more stories"
-title = "Success Stories"
-[donate]
-title = "Donate"
 
 +++
