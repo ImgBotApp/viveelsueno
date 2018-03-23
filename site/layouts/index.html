@@ -1,10 +1,13 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-{{ partial "masthead" . }}
-<main class="content" role="main">
-  {{ partial "blurb" . }}
-  {{ partial "success-stories" . }}
-  {{ partial "socials" . }}
-  {{ partial "donate" . }}
-</main>
-{{ partial "footer" . }}
+<div class="nav__main">
+  {{ partial "masthead" . }}
+  <main class="content" role="main">
+    {{ partial "blurb" . }}
+    {{ partial "success-stories" . }}
+    {{ partial "socials" . }}
+    {{ partial "stories" . }}
+    {{ partial "donate" . }}
+  </main>
+  {{ partial "footer" . }}  
+</div>

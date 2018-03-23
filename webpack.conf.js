@@ -21,7 +21,8 @@ export default {
   plugins: [
     new webpack.ProvidePlugin({
       "fetch": "imports-loader?this=>global!exports?global.fetch!whatwg-fetch"
-    })
+    }),
+    new webpack.optimize.UglifyJsPlugin({minimize: true})
   ],
 
   context: path.join(__dirname, "src"),

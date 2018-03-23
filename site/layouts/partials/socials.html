@@ -1,8 +1,9 @@
 <div class="socials">
   <div class="socials__left">
+    <div class="socials__instafeed"></div>
   </div>
   <div class="socials__right">
-    <h3 class="socials__title">Follow us</h3>
+    <h3 class="socials__title">{{ i18n "Follow us" }}</h3>
     <div class="socials__buttons">
       <a class="socials__button" href="{{ $.Site.Data.social.Facebook.url }}" target="_blank">
         <img class="socials__icon" src="/img/Icon-Facebook.png" alt="">
@@ -11,7 +12,7 @@
         <img class="socials__icon" src="/img/Icon-Instagram.png" alt="">
       </a>
     </div>
-    <h3 class="socials__title">Join our newsletter</h3>
+    <h3 class="socials__title">{{ i18n "Join our newsletter" }}</h3>
     <form action="">
       <div class="socials__email js-input-placeholder">
         <label class="socials__email-label" for="donation-email">{{ i18n "Email" }}</label>

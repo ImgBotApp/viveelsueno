@@ -42,5 +42,21 @@
   {
     "id": "Subscribe",
     "translation": "Inscribirse"
+  },
+  {
+    "id": "Follow us",
+    "translation": "Síguenos"
+  },
+  {
+    "id": "Join our newsletter",
+    "translation": "Suscríbase a nuestro boletín"
+  },
+  {
+    "id": "Success Stories",
+    "translation": "Historias de éxito"
+  },
+  {
+    "id": "read more stories",
+    "translation": "ver más historias"
   }
 ]

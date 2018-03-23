@@ -13,13 +13,8 @@
 
 .socials__left {
   flex: 1 1 100%;
-  width: 100%;
-  min-height: 300px;
-  margin: 2rem 2rem 1rem;
-  background: #3c3c3c;
 
   @media (min-width: 1000px) {
-    min-height: none;
     margin: 1rem;
     margin-top: 0;
     flex: 1 1;

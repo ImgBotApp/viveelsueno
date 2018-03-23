@@ -1,0 +1,14 @@
+<div class="stories">
+  <div class="stories__list">
+    {{ $.Scratch.Add "c1" 0 }}
+    {{ range where .Site.Pages.ByPublishDate "Section" "story" }}
+      {{ if eq .Kind "page" }}
+        {{ if lt ($.Scratch.Get "c1") 3 }}
+          {{ .Render "teaser" }}
+          {{ $.Scratch.Add "c1" 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <a class="button" href='{{ "/story" | relLangURL }}'>{{ i18n "read more stories" }}</a>
+</div>
