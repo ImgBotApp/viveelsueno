@@ -20,6 +20,13 @@
             Historias
           {{ end }}
         {{ end }}
+        {{ if eq .Section "participant" }}
+          {{ if eq .Lang "en" }}
+            Participants
+          {{ else }}
+            Participantes
+          {{ end }}
+        {{ end }}
       {{ else }}
         {{ .Title }}
       {{ end }}

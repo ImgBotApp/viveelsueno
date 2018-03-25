@@ -2,5 +2,7 @@
   <a class="participant__teaser-link" href="{{ .URL }}">
     <div class="participant__teaser-image" style="background-image: url('{{ .Params.teaser_image }}');"></div>
     <h3 class="participant__teaser-title">{{ .Title }}</h3>
+    <div class="participant__teaser-business">{{ .Params.brand_name }}</div>
+    <div class="participant__teaser-phone">{{ .Params.phone_number }}</div>
   </a>
 </div>
