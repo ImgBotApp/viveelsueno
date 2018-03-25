@@ -1,6 +1,9 @@
 ---
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Name
 - type: file
   name: teaser_image
   label: Teaser Image
