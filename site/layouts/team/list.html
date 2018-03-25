@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+{{ partial "masthead" . }}
+<main class="content" role="main">
+  {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "team" }}
+    {{ if eq .Kind "page" }}
+      {{ .Render "teaser" }}
+    {{ end }}
+  {{ end }}
+  {{ partial "donate" . }}
+</main>
+{{ partial "footer" . }}

@@ -27,6 +27,13 @@
             Participantes
           {{ end }}
         {{ end }}
+        {{ if eq .Section "team" }}
+          {{ if eq .Lang "en" }}
+            Team Members
+          {{ else }}
+            Miembros del Equipo
+          {{ end }}
+        {{ end }}
       {{ else }}
         {{ .Title }}
       {{ end }}
