@@ -37,7 +37,7 @@
 
   @media (min-width: 760px) {
     margin: 0 1rem;
-    flex: 3;
+    flex: 3 3 30%;
   }
 }
 

@@ -1,9 +1,9 @@
-.participants {
+.sponsor {
   max-width: 960px;
   margin: 4rem auto;
 }
 
-.participant__teaser {
+.sponsor__teaser {
   text-align: center;
   display: inline-block;
   flex: 100%;
@@ -19,35 +19,15 @@
   }
 }
 
-.participant__teaser-title {
-  font-size: 1.25rem;
-  margin: 1rem 0 .25rem 0;
-
-  @media (min-width: 480px) {
-    font-size: 1.5rem;
-  }
-}
-
-.participant__teaser-business {
-  color: #666;
-  margin: .25rem 0;
-}
-
-.participant__teaser-phone {
-  color: #666;
-  margin: .25rem 0;
-}
-
-.participant__teaser-link {
+.sponsor__teaser-link {
   text-decoration: none;
   color: #585454;
 }
 
-.participant__teaser-image {
+.sponsor__teaser-image {
   display: inline-block;
   width: 128px;
   height: 128px;
   background-size: cover;
   background-position: center;
-  border-radius: 50%;
 }

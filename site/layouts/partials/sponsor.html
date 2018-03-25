@@ -1,0 +1,14 @@
+<div class="sponsor">
+  <h2 class="sponsor__title">{{ i18n "Our Sponsors" }}</h2>
+  <div class="sponsor__list">
+    {{ .Scratch.Add "c1" 0 }}
+    {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "sponsor" }}
+      {{ if eq .Kind "page" }}
+        {{ if lt (.Scratch.Get "c1") 4 }}
+          {{ .Render "teaser" }}
+          {{ .Scratch.Add "c1" 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

@@ -61,14 +61,18 @@
   },
   {
     "id": "Our Program",
-    "translation": "Nuestro programa"
+    "translation": "Nuestro Programa"
   },
   {
     "id": "Our Participants",
-    "translation": "Nuestros participantes"
+    "translation": "Nuestros Participantes"
   },
   {
     "id": "find more people",
     "translation": "encuentra mas gente"
+  },
+  {
+    "id": "Our Sponsors",
+    "translation": "Nuestros Patrocinadores"
   }
 ]
