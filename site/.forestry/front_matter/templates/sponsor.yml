@@ -4,6 +4,9 @@ fields:
 - type: text
   name: title
   label: Name
+- type: text
+  name: link
+  label: Link
 - type: file
   name: teaser_image
   label: Teaser Image
