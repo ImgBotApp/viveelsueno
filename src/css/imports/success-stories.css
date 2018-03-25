@@ -46,6 +46,21 @@
   color: #585454;
 }
 
-.success-stories__teaser-image {
+.success-stories__teaser-image-wrapper {
+  position: relative;
+  display: block;
+  content: "";
   width: 100%;
+  padding-top: 66.66%;
+  overflow: hidden;
+  background: #eee;
+}
+
+.success-stories__teaser-image {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
