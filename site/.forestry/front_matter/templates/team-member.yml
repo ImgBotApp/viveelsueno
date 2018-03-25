@@ -21,3 +21,8 @@ fields:
   label: Role
   name: role
   default: Project Manager
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
