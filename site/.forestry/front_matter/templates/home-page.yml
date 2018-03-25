@@ -1,7 +1,7 @@
 ---
 pages:
-- _index.es.md
 - _index.md
+- _index.es.md
 hide_body: false
 fields:
 - type: text

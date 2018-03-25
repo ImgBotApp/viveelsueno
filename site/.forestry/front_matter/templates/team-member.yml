@@ -1,0 +1,20 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Volunteer
+    - Web Developer
+    - Project Manager
+    required: true
+  label: Role
+  name: role
+  default: Project Manager
