@@ -23,3 +23,8 @@ fields:
   label: Teaser Image
   config:
     maxSize: '2'
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'
