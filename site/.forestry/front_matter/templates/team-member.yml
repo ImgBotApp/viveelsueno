@@ -11,9 +11,10 @@ fields:
     source:
       type: simple
     options:
-    - Project Manager
-    - Web Developer
     - Volunteer
+    - Web Developer
+    - Project Manager
     required: true
   label: Role
   name: role
+  default: Project Manager
