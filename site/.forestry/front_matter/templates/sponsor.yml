@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
