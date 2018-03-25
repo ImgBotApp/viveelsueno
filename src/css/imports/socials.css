@@ -25,8 +25,12 @@
 
 .socials__right {
   flex: 1 1 100%;
-  text-align: left;
+  text-align: center;
   margin: 1rem 2rem 1rem;
+
+  @media (min-width: 380px) {
+    text-align: left;
+  }
 
   @media (min-width: 1000px) {
     margin: 1rem;
