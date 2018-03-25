@@ -1,8 +1,10 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-{{ partial "masthead" . }}
-<main class="content" role="main">
-  {{ .Content }}
-  {{ partial "donate" . }}
-</main>
+<div class="nav__main">
+  {{ partial "masthead" . }}
+  <main class="content" role="main">
+    {{ .Content }}
+    {{ partial "donate" . }}
+  </main>
+</div>
 {{ partial "footer" . }}
