@@ -1,0 +1,15 @@
+<div class="team">
+  <h2 class="team__title">{{ i18n "Our Team" }}</h2>
+  <div class="team__list">
+    {{ .Scratch.Add "c1" 0 }}
+    {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "team" }}
+      {{ if eq .Kind "page" }}
+        {{ if lt (.Scratch.Get "c1") 4 }}
+          {{ .Render "teaser" }}
+          {{ .Scratch.Add "c1" 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <a class="button" href='{{ "/team" | relLangURL }}'>{{ i18n "see more team members" }}</a>
+</div>

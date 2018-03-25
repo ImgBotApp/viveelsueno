@@ -1,0 +1,48 @@
+.teams {
+  max-width: 960px;
+  margin: 4rem auto;
+}
+
+.team__teaser {
+  text-align: center;
+  display: inline-block;
+  flex: 100%;
+  margin: 2rem;
+
+  @media (min-width: 480px) {
+    margin: 2rem 3rem;
+  }
+
+  @media (min-width: 760px) {
+    margin: 2rem 3rem;
+    flex: 4 4 25%;
+  }
+}
+
+.team__teaser-title {
+  font-size: 1.25rem;
+  margin: 1rem 0 .25rem 0;
+
+  @media (min-width: 480px) {
+    font-size: 1.5rem;
+  }
+}
+
+.team__teaser-role {
+  color: #666;
+  margin: .25rem 0;
+}
+
+.team__teaser-link {
+  text-decoration: none;
+  color: #585454;
+}
+
+.team__teaser-image {
+  display: inline-block;
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
