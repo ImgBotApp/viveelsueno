@@ -6,3 +6,24 @@ fields:
   label: Name
   config:
     required: true
+- type: select
+  name: role
+  config:
+    source:
+      type: simple
+    options:
+    - Volunteer
+    - Web Developer
+    - Project Manager
+    required: true
+  label: Role
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'
