@@ -1,4 +1,6 @@
 ---
+pages:
+- team/elijah.md
 hide_body: false
 fields:
 - type: text
