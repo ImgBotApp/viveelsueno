@@ -3,11 +3,15 @@
   margin: 4rem auto;
 }
 
+h2.sponsor__title {
+  margin: 0 auto;
+}
+
 .sponsor__teaser {
   text-align: center;
   display: inline-block;
   flex: 100%;
-  margin: 2rem;
+  margin: 2rem 1rem;
 
   @media (min-width: 480px) {
     margin: 2rem 3rem;
@@ -26,8 +30,13 @@
 
 .sponsor__teaser-image {
   display: inline-block;
-  width: 128px;
-  height: 128px;
+  width: 80px;
+  height: 80px;
   background-size: cover;
   background-position: center;
+
+  @media (min-width: 380px) {
+    width: 128px;
+    height: 128px;
+  }
 }

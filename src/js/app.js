@@ -1,10 +1,51 @@
 import $ from 'jquery';
 
-$('.nav__flyout-open, .nav__flyout-close').click(() => {
+$(document).ready(() => {
+  const $root = $('html, body');
   const $flyout = $('.nav__flyout');
   const $navMain = $('.nav__main');
 
-  if ($flyout.is('.nav__flyout--active')) {
+  const smoothScrollingTo = (target) => {
+    $root.animate({scrollTop:$(target).offset().top}, 500, 'swing', () => {
+      location.hash = target;
+    });
+  };
+
+  if (location.hash)
+    smoothScrollingTo(location.hash);
+
+  $(document).on('click', 'a[href^=\\#]', function(event) {
+    if ($(this.hash).length) {
+      event.preventDefault();
+      smoothScrollingTo(this.hash);
+    }
+  });
+
+  $('.nav__flyout-open, .nav__flyout-close').click(() => {
+    if ($flyout.is('.nav__flyout--active')) {
+      $flyout
+      .removeClass('nav__flyout--active')
+      .attr('tabindex', '-1')
+      .delay(400)
+      .hide(0);
+      $navMain
+      .animate({
+        opacity: 1,
+      }, 300);
+    } else {
+      $flyout
+      .show(0)
+      .delay(100)
+      .addClass('nav__flyout--active')
+      .attr('tabindex', '0');
+      $navMain
+      .animate({
+        opacity: .5,
+      }, 300);
+    }
+  });
+  
+  $('.nav__flyout-link').click(() => {
     $flyout
     .removeClass('nav__flyout--active')
     .attr('tabindex', '-1')
@@ -14,20 +55,8 @@ $('.nav__flyout-open, .nav__flyout-close').click(() => {
     .animate({
       opacity: 1,
     }, 300);
-  } else {
-    $flyout
-    .show(0)
-    .delay(100)
-    .addClass('nav__flyout--active')
-    .attr('tabindex', '0');
-    $navMain
-    .animate({
-      opacity: .5,
-    }, 300);
-  }
-});
+  });
 
-$(document).ready(() => {
   $('.js-input-placeholder .js-input-placeholder__input').focus((e) => {
     $(e.target).parent('.js-input-placeholder').addClass('js-input-placeholder--active');
   });

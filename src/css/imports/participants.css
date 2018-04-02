@@ -3,11 +3,15 @@
   margin: 4rem auto;
 }
 
+h2.participants__title {
+  margin: 0 auto;
+}
+
 .participant__teaser {
   text-align: center;
   display: inline-block;
   flex: 100%;
-  margin: 2rem;
+  margin: 2rem 1rem;
 
   @media (min-width: 480px) {
     margin: 2rem 3rem;
@@ -45,9 +49,14 @@
 
 .participant__teaser-image {
   display: inline-block;
-  width: 128px;
-  height: 128px;
+  width: 80px;
+  height: 80px;
   background-size: cover;
   background-position: center;
   border-radius: 50%;
+
+  @media (min-width: 380px) {
+    width: 128px;
+    height: 128px;
+  }
 }

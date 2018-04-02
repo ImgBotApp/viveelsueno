@@ -1,6 +1,13 @@
 ---
 Main:
-  - label: About
-    link: '/about'
-  - label: Donate
-    link: '#donate'
+  en:
+    - label: About
+      link: '/about'
+    - label: Donate
+      link: '#donate'
+  es:
+    - label: Sobre
+      link: '/es/about'
+    - label: Donar
+      link: '#donate'
+  
