@@ -1,9 +1,9 @@
 ---
 pages:
-- about.es.md
 - about.md
-- donate.es.md
 - donate.md
+- donate.es.md
+- about.es.md
 hide_body: false
 fields:
 - type: text
