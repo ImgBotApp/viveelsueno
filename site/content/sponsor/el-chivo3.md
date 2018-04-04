@@ -1,6 +1,6 @@
 +++
-link = "https://www.elchivo.co"
-teaser_image = "/uploads/2018/04/04/38281555-8e0c1b04-3757-11e8-9e6e-673f7085d4fd.jpg"
-title = "El Chivo"
+link = "#"
+teaser_image = "/uploads/2018/04/04/38281556-93709958-3757-11e8-8124-f61a7b153e8f.jpg"
+title = "Wanderlust"
 
 +++
