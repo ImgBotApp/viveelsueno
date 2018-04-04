@@ -30,10 +30,10 @@ fields:
     - Project Manager
     - Business Program Coordinator
     - English Program Director
-    - Community Outreach/Admin/Accounting/Social Media
     - Photographer
     - Graphic Designer
     - Founder
+    - Admin & Operations
     required: true
   label: Role
   default: Volunteer
