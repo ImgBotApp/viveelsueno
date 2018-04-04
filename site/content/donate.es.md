@@ -1,5 +1,6 @@
 +++
 date = "2018-02-05T18:38:36Z"
+draft = true
 masthead_image = "/uploads/2018/02/23/vive-el-sueno-5.jpg"
 title = "Donar"
 type = "content-page"
