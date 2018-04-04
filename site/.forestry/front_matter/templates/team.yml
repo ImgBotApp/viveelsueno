@@ -19,8 +19,14 @@ fields:
     - Volunteer
     - Web Developer
     - Project Manager
+    - Business Program Coordinator
+    - English Program Director
+    - Community Outreach/Admin/Accounting/Social Media
+    - Photographer
+    - Graphic Designer
     required: true
   label: Role
+  default: Volunteer
 - type: file
   name: teaser_image
   label: Teaser Image
