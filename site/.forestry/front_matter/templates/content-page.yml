@@ -1,8 +1,8 @@
 ---
 pages:
+- about.es.md
 - about.md
 - donate.es.md
-- about.es.md
 - donate.md
 hide_body: false
 fields:
