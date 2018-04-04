@@ -32,6 +32,7 @@ fields:
     - Community Outreach/Admin/Accounting/Social Media
     - Photographer
     - Graphic Designer
+    - Founder
     required: true
   label: Role
   default: Volunteer
