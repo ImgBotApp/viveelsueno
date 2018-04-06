@@ -1,5 +1,5 @@
 +++
-date = "2018-04-06T12:53:02+00:00"
+date = "2018-04-06T12:53:02Z"
 masthead_image = ""
 teaser_image = "/uploads/2018/04/06/viveelsueno_17.jpg"
 title = "Ileana Patricia Aviles Mayorga"
