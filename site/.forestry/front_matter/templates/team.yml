@@ -1,5 +1,6 @@
 ---
 pages:
+- team/david-disch.md
 - team/ileana-aviles.md
 - team/ileana-aviles.es.md
 - team/megan-barnett.md
@@ -12,7 +13,6 @@ pages:
 - team/zacc-pollitt.es.md
 - team/christina-baal-owens.md
 - team/christina-baal-owens.es.md
-- team/david-disch.md
 - team/david-disch.es.md
 hide_body: false
 fields:
