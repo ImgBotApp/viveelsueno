@@ -1,11 +1,7 @@
 ---
 pages:
-- success-story/april.md
-- success-story/april.es.md
-- success-story/graci.md
-- success-story/warren.md
-- success-story/graci.es.md
-- success-story/warren.es.md
+- success-story/ileana-patricia-aviles-mayorga.es.md
+- success-story/ileana-patricia-aviles-mayorga.md
 hide_body: false
 fields:
 - type: text
