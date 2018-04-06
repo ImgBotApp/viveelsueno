@@ -1,5 +1,5 @@
 +++
-brand_name = "Y & B Cleaning Services"
+brand_name = "Y & B Cleaning Service"
 date = "2018-04-06T11:47:34+00:00"
 draft = true
 masthead_image = ""
