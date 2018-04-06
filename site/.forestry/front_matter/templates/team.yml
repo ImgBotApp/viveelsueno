@@ -1,19 +1,19 @@
 ---
 pages:
-- team/david-disch.es.md
-- team/david-disch.md
-- team/christina-baal-owens.es.md
-- team/christina-baal-owens.md
-- team/zacc-pollitt.es.md
-- team/zacc-pollitt.md
-- team/veronica-monge.es.md
-- team/veronica-monge.md
-- team/rebecca-schmidt.es.md
-- team/rebecca-schmidt.md
-- team/megan-barnett.es.md
-- team/megan-barnett.md
-- team/ileana-aviles.es.md
 - team/ileana-aviles.md
+- team/ileana-aviles.es.md
+- team/megan-barnett.md
+- team/megan-barnett.es.md
+- team/rebecca-schmidt.md
+- team/rebecca-schmidt.es.md
+- team/veronica-monge.md
+- team/veronica-monge.es.md
+- team/zacc-pollitt.md
+- team/zacc-pollitt.es.md
+- team/christina-baal-owens.md
+- team/christina-baal-owens.es.md
+- team/david-disch.md
+- team/david-disch.es.md
 hide_body: false
 fields:
 - type: text
