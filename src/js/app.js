@@ -67,28 +67,22 @@ $(document).ready(() => {
     }
   });
 
-  const name = 'viveelsueno';
   let items;
-  $.getJSON('https://query.yahooapis.com/v1/public/yql', {
-    q: 'select * from json where url="https://www.instagram.com/' + name + '/?__a=1"',
-    format: 'json',
-    _: name
-  }, (data) => {
-    if (data.query.results) {
-      items = data.query.results.json.graphql.user.edge_owner_to_timeline_media.edges;
-      $.each(items, (n, item) => {
-        if (n < 6) {
-          const node = item.node;
-          $('.socials__instagram-feed').append(
-            $('<a/>', {
-              class: 'socials__instagram-photo',
-              href: 'https://www.instagram.com/p/' + node.shortcode,
-              target: '_blank'
-            }).css({
-              backgroundImage: 'url(' + node.thumbnail_src + ')'
-            }));
-        }
-      });
-    }
+  $.getJSON('https://www.instagram.com/viveelsueno/?__a=1', (data) => {
+    items = data.graphql.user.edge_owner_to_timeline_media.edges;
+    $.each(items, (n, item) => {
+      if (n % 2 === 0 && n / 2 < 6) {
+        const node = item.node;
+        $('.socials__instagram-feed').append(
+          $('<a/>', {
+            class: 'socials__instagram-photo',
+            href: 'https://www.instagram.com/p/' + node.shortcode,
+            target: '_blank'
+          }).css({
+            backgroundImage: 'url(' + node.thumbnail_resources[0].src + ')'
+          })
+        );
+      }
+    });
   });
 });

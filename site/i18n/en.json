@@ -82,5 +82,41 @@
   {
     "id": "see more team members",
     "translation": "see more team members"
+  },
+  {
+    "id": "Volunteer",
+    "translation": "Volunteer"
+  },
+  {
+    "id": "Web Developer",
+    "translation": "Web Developer"
+  },
+  {
+    "id": "Project Manager",
+    "translation": "Project Manager"
+  },
+  {
+    "id": "Business Program Coordinator",
+    "translation": "Business Program Coordinator"
+  },
+  {
+    "id": "English Program Director",
+    "translation": "English Program Director"
+  },
+  {
+    "id": "Photographer",
+    "translation": "Photographer"
+  },
+  {
+    "id": "Graphic Designer",
+    "translation": "Graphic Designer"
+  },
+  {
+    "id": "Founder",
+    "translation": "Founder"
+  },
+  {
+    "id": "Admin & Operations",
+    "translation": "Admin & Operations"
   }
 ]

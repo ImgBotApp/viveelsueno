@@ -1,7 +1,7 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 {{ partial "masthead" . }}
-<main class="content" role="main">
+<main class="page" role="main">
   <div class="stories">
     <div class="stories__list">
       {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "story" }}

@@ -19,6 +19,7 @@
   max-width: 720px;
   margin: 0 auto 1rem;
   flex-wrap: wrap;
+  justify-content: center;
 
   @media (min-width: 1080px) {
     max-width: 960px;
@@ -30,6 +31,7 @@
   display: block;
   flex: 100%;
   margin: 0 1rem;
+  max-width: 350px;
 
   @media (min-width: 480px) {
     margin: 1rem 3rem;
@@ -38,6 +40,7 @@
   @media (min-width: 760px) {
     margin: 0 1rem;
     flex: 3 3 30%;
+    max-width: 300px;
   }
 }
 
@@ -63,4 +66,8 @@
   right: 0;
   bottom: 0;
   left: 0;
+}
+
+.stories .button {
+  font-size: 1rem;
 }

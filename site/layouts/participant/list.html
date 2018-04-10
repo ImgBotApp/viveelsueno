@@ -1,8 +1,8 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 {{ partial "masthead" . }}
-<main class="content" role="main">
-  <div class="participants__list">
+<main class="page" role="main">
+  <div class="participants">
   {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "participant" }}
     {{ if eq .Kind "page" }}
       {{ .Render "teaser" }}

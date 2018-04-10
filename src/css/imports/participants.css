@@ -1,6 +1,7 @@
 .participants {
   max-width: 960px;
   margin: 4rem auto;
+  font-size: 1rem;
 }
 
 h2.participants__title {
@@ -59,4 +60,8 @@ h2.participants__title {
     width: 128px;
     height: 128px;
   }
+}
+
+.participants .button {
+  font-size: 1rem;
 }

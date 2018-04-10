@@ -35,6 +35,7 @@ h2.team__title {
 .team__teaser-role {
   color: #666;
   margin: .25rem 0;
+  font-size: 1rem;
 }
 
 .team__teaser-link {

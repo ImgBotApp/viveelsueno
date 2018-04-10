@@ -82,5 +82,41 @@
   {
     "id": "see more team members",
     "translation": "ver más miembros del equipo"
+  },
+  {
+    "id": "Volunteer",
+    "translation": "Voluntario"
+  },
+  {
+    "id": "Web Developer",
+    "translation": "Desarrollador Web"
+  },
+  {
+    "id": "Project Manager",
+    "translation": "Gerente de Proyecto"
+  },
+  {
+    "id": "Business Program Coordinator",
+    "translation": "Coordinador del Programa de Negocios"
+  },
+  {
+    "id": "English Program Director",
+    "translation": "Director de Programa de Inglés"
+  },
+  {
+    "id": "Photographer",
+    "translation": "Fotógrafo"
+  },
+  {
+    "id": "Graphic Designer",
+    "translation": "Diseñador Grafico"
+  },
+  {
+    "id": "Founder",
+    "translation": "Fundador"
+  },
+  {
+    "id": "Admin & Operations",
+    "translation": "Administración y Operaciones"
   }
 ]
