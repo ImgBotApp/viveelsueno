@@ -16,6 +16,6 @@ While the boom in tourism and land development appears to have brought significa
 
 ### See what others are saying about Vive el Sueño
 
-* [http://www.nosarastories.com/life-stories/entrepreneur-nosara/](http://www.nosarastories.com/life-stories/entrepreneur-nosara/ "http://www.nosarastories.com/life-stories/entrepreneur-nosara/")
-* [https://www.humansofnosara.org/human/rebecca-schmidt/](https://www.humansofnosara.org/human/rebecca-schmidt/ "https://www.humansofnosara.org/human/rebecca-schmidt/")
-* [http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses](http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses "http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses")
+* [Nosara Stories - How did the “Vive el Sueño” initiative start?](http://www.nosarastories.com/life-stories/entrepreneur-nosara/)
+* [Humans of Nosara - Rebecca Schmidt](https://www.humansofnosara.org/human/rebecca-schmidt/)
+* [Voice of Guanacaste - Foundation Fulfills Dreams of Nosarans and Helps Them Start Their Own Businesses](http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses)
