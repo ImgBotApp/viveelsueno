@@ -115,10 +115,6 @@
   text-align: left;
   padding-left: 1.5rem;
 
-  @media (min-width: 480px) {
-    font-size: 1.5rem;
-  }
-
   @media (min-width: 720px) {
     margin: 2rem auto;
     max-width: 560px;
