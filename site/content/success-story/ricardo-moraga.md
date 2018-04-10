@@ -1,6 +1,6 @@
 +++
 date = "2018-04-10T09:33:15+00:00"
-masthead_image = ""
+masthead_image = "/uploads/2018/04/10/viveelsueno-23.jpg"
 teaser_image = "/uploads/2018/04/10/viveelsueno-23.jpg"
 title = "Ricardo Moraga"
 
