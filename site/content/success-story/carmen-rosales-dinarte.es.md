@@ -7,10 +7,9 @@ title = "Carmen Rosales Dinarte"
 +++
 ## Creaciones Sheri
 
-### Carmen has shared the following about her experience with Vive el Sueño.
-
+### Carmen ha compartido lo siguiente sobre su experiencia con Vive el Sueño.
   
-Before I opened my business, I worked for 17 years at a factory that makes pants in San Jose. I moved to Nosara and worked in a business here but then I lost my job and started sewing and doing crafts such as pillows and ironing clothing. After this, I joined the Vive el Sueño program and for 2 weeks I attended the workshops focused on opening a small business. They helped me a lot and what I like the most is managing my own business.  It is going very well and I’m taking English classes now to better prepare myself so I’m able to attend to all clients without any difficulty.
+Antes de abrir mi negocio, trabajé durante 17 años en una fábrica que fabrica pantalones en San José. Me mudé a Nosara y trabajé en un negocio aquí, pero luego perdí mi trabajo y comencé a coser y hacer manualidades, como almohadas y planchar ropa. Después de esto, me uní al programa Vive el Sueño y durante 2 semanas asistí a los talleres enfocados en la apertura de una pequeña empresa. Me ayudaron mucho y lo que más me gusta es administrar mi propio negocio. Está yendo muy bien y estoy tomando clases de inglés ahora para prepararme mejor, así puedo atender a todos los clientes sin dificultad.
 
-Contact [carmenrosdi25@gmail.com](mailto:carmenrosdi25@gmail.com)  
+Contacto [carmenrosdi25@gmail.com](mailto:carmenrosdi25@gmail.com)  
 8830-9675
