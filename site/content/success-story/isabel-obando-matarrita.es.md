@@ -1,6 +1,6 @@
 +++
 date = "2018-04-10T09:29:26+00:00"
-masthead_image = ""
+masthead_image = "/uploads/2018/04/10/viveelsueno_07-masthead.jpg"
 teaser_image = "/uploads/2018/04/10/viveelsueno_07.jpg"
 title = "Isabel Obando Matarrita"
 
