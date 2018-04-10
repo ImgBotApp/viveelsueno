@@ -1,7 +1,4 @@
 ---
-pages:
-- story/story--1.md
-- story/story--2.md
 hide_body: false
 fields:
 - type: text
