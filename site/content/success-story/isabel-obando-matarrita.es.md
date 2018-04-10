@@ -7,12 +7,12 @@ title = "Isabel Obando Matarrita"
 +++
 ## [Panaderia Isa](https://www.facebook.com/isapanaderia/)
 
-### Isabel Obando Matarrita attended and graduated from the first Vive el Sueño Small Business Workshops in September 2015. She is the owner of Panaderia Isa a bakery and pastry shop located in Nosara, Costa Rica. She offers delicious empanadas, pastries and cakes for all occasions.
+### Isabel Obando Matarrita asistió y se graduó de los primeros talleres de pequeñas empresas de Vive el Sueño en septiembre de 2015. Ella es la propietaria de Panaderia Isa, una panadería y pastelería ubicada en Nosara, Costa Rica. Ella ofrece deliciosas empanadas, pasteles y pasteles para todas las ocasiones.
 
-Isa has graciously shared how the Vive el Sueño program has helped her.
+Isa ha compartido graciosamente cómo el programa Vive el Sueño la ha ayudado.
 
-I learned so much from the training workshops and was guided to make my business a success. The Vive el Sueño program offered me support, especially with extra publicity and they even helped me to paint my store. My advice to others wanting to start their own business is  that perseverance is what makes you grow. Continue dreaming for a better future and keep working. Your dreams can come true.
+Aprendí mucho de los talleres de capacitación y fui guiado para hacer de mi negocio un éxito. El programa Vive el Sueño me brindó apoyo, especialmente con publicidad adicional e incluso me ayudaron a pintar mi tienda. Mi consejo para los demás que desean iniciar su propio negocio es que la perseverancia es lo que te hace crecer. Continúa soñando por un futuro mejor y sigue trabajando. Tus sueños pueden hacerse realidad.
 
-Since graduating from the Vive el Sueño program, Isa has registered her business and acquired all the necessary permits. She is now selling her baked goods in Super Nosara, the local grocery store as well as in her bakery. She was also able to send her daughter to school to study to be a pastry chef.
+Desde que se graduó del programa Vive el Sueño, Isa ha registrado su negocio y ha adquirido todos los permisos necesarios. Ella ahora está vendiendo sus productos horneados en Super Nosara, la tienda de comestibles local, así como en su panadería. También pudo enviar a su hija a la escuela para estudiar para ser pastelera.
 
-Panaderia Isa 8532-3083 and Isaobandomatarrita@gmail.com
+Panaderia Isa 8532-3083 y Isaobandomatarrita@gmail.com
