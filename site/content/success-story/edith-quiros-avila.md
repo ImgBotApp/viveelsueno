@@ -1,5 +1,5 @@
 +++
-date = "2018-04-10T08:50:41+00:00"
+date = "2018-04-10T08:50:41Z"
 masthead_image = "/uploads/2018/04/10/viveelsueno_101-masthead.jpg"
 teaser_image = "/uploads/2018/04/10/viveelsueno_11.jpg"
 title = "Edith Quirós Ávila"

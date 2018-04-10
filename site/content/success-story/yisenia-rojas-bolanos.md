@@ -1,5 +1,5 @@
 +++
-date = "2018-04-10T09:00:30+00:00"
+date = "2018-04-10T09:00:30Z"
 masthead_image = "/uploads/2018/04/10/viveelsueno_00-1-masthead.jpg"
 teaser_image = "/uploads/2018/04/10/viveelsueno_03-1-1.jpg"
 title = "Yisenia Rojas Bolaños"
