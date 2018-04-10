@@ -15,4 +15,4 @@ Siempre quise tener mi propio negocio cuando trabajaba para otros pero no pude e
 
 Desde que se graduó del programa Vive el Sueño, Edith registró su negocio y obtuvo una patente. Ella ahora está vendiendo sus diseños en su tienda en Nosara, así como en Nativa y el Bodhi Tree Yoga Resort ubicado en Guiones, Costa Rica. Con el aumento de las ganancias, Edith y su esposo ahora están construyendo una cabaña para alquilar una propiedad.
 
-Creaciones Los Angeles [506 8565-9586](tel:+50685659586) and [506 2682-0491](tel:+50626820491)
+Creaciones Los Angeles [506 8565-9586](tel:+50685659586) y [506 2682-0491](tel:+50626820491)
