@@ -1,7 +1,7 @@
 ---
 pages:
-- about.es.md
 - about.md
+- about.es.md
 hide_body: false
 fields:
 - type: text
