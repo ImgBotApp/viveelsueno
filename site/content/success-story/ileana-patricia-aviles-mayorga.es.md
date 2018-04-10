@@ -13,5 +13,5 @@ Todo comenzó con una llamada telefónica que hice a Ethel Araya en la Asociaci�
 
 Vive el Sueño es parte de mi familia. Hoy, casi 3 años después, tengo 2 negocios familiares. Mi esposo, mi familia y yo administramos Pura Vida Nosara ATV Rentals, Racing Trips y Tours y también Floresteria Ily, una florería. Todavía estoy promoviendo Vive el Sueño, pero ahora tengo el rol de Coordinador del programa. El año pasado tuvimos 26 participantes que se graduaron de 40 horas de talleres y la mayoría abrió o creció sus propios negocios. Este año tenemos casi 50 personas locales interesadas en el programa y muchos asisten a los chats / talleres mensuales gratuitos ofrecidos por voluntarios de la comunidad que ofrecen los secretos de sus habilidades, conocimientos comerciales y experiencia. Todos los participantes están entusiasmados de ver sus sueños hechos realidad como lo hizo mi familia.
 
-**Pura Vida ATV or Floristeria Ily contact** [\*\*mayorgaileana@gmail.com \*\*](mailto:mayorgaileana@gmail.com)  
+**Pura Vida ATV or Floristeria Ily contact** [mayorgaileana@gmail.com](mailto:mayorgaileana@gmail.com)  
 **2682-0283 or 86356326.**
