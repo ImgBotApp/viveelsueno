@@ -13,3 +13,9 @@ While the boom in tourism and land development appears to have brought significa
 
 * Provide educational workshops on topics such as Entrepreneurship, Finance, Marketing, Management, English Classes, and Life Coaching that will both support the opening of new small businesses and increase eligibility for senior level positions in existing businesses.
 * Provide ongoing mentorship to Program Participants to foster continued growth in their businesses. Connect emerging business owners to crucial resources such as grants, loans, and professional services.
+
+See what others are saying about Vive el Sueño:
+
+* [http://www.nosarastories.com/life-stories/entrepreneur-nosara/](http://www.nosarastories.com/life-stories/entrepreneur-nosara/ "http://www.nosarastories.com/life-stories/entrepreneur-nosara/")
+* [https://www.humansofnosara.org/human/rebecca-schmidt/](https://www.humansofnosara.org/human/rebecca-schmidt/ "https://www.humansofnosara.org/human/rebecca-schmidt/")
+* [http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses](http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses "http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses")
