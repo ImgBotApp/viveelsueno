@@ -15,6 +15,7 @@ pages:
 - team/christina-baal-owens.es.md
 - team/david-disch.es.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title

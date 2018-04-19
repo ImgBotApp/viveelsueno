@@ -50,6 +50,7 @@ pages:
 - sponsor/edunamica-asociacion.es.md
 - sponsor/yo-emprendedor.es.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title

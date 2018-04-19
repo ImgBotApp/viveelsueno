@@ -49,6 +49,7 @@ pages:
 - participant/graciela-lopez-alfaro.es.md
 - participant/graciela-lopez-alfaro.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
