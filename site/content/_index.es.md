@@ -19,7 +19,7 @@ title = "Capacitación del trabajo"
 blurb = "10 meses de clases de inglés de 2 horas, dos veces por semana, adaptadas a los negocios individuales de nuestros participantes y enseñadas por un instructor certificado por TEFL en el Instituto Español de Nosara."
 title = "Lecciones de inglés"
 [program.item_3]
-blurb = "One on one session with our graphics design artist Zacc Pollit to create a personalized, professional logo and a photoshoot with our photographer Veronica Monge where our participants get a chance to have their photos taken in the context of their new business."
+blurb = "Sesión individual con nuestro diseñador de gráficos Zacc Pollit para crear un logotipo personalizado y profesional y una sesión de fotos con nuestra fotógrafa Veronica Monge, donde nuestros participantes tienen la oportunidad de tomar sus fotos en el contexto de su nuevo negocio."
 title = ""
 title_3 = "Diseño de logotipo y sesión de fotos"
 [program.item_4]
