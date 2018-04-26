@@ -20,7 +20,7 @@ blurb = "10 meses de clases de inglés de 2 horas, dos veces por semana, adaptad
 title = "Lecciones de inglés"
 [program.item_3]
 blurb = "Sesión individual con nuestro diseñador de gráficos Zacc Pollit para crear un logotipo personalizado y profesional y una sesión de fotos con nuestra fotógrafa Veronica Monge, donde nuestros participantes tienen la oportunidad de tomar sus fotos en el contexto de su nuevo negocio."
-title = "Logo Design & Photoshoot"
+title = "Diseño de logotipo y sesión de fotos"
 title_3 = "Diseño de logotipo y sesión de fotos"
 [program.item_4]
 blurb = "Entrenamientos de redes sociales uno a uno con Rebecca Schmidt, donde se muestra a nuestros participantes cómo crear sus cuentas, llegar a su comunidad, atraer nuevos clientes y hacer un plan de mercadeo en las redes sociales."
