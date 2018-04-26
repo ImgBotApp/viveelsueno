@@ -53,6 +53,9 @@ fields:
     name: item_1
     label: Item 1
     fields:
+    - type: text
+      name: title
+      label: Title
     - type: textarea
       name: blurb
       label: Blurb
@@ -62,6 +65,9 @@ fields:
     name: item_2
     label: Item 2
     fields:
+    - type: text
+      name: title
+      label: Title
     - type: textarea
       name: blurb
       label: Blurb
@@ -71,6 +77,9 @@ fields:
     name: item_3
     label: Item 3
     fields:
+    - type: text
+      name: title_3
+      label: Title 3
     - type: textarea
       name: blurb
       label: Blurb
@@ -80,6 +89,9 @@ fields:
     name: item_4
     label: Item 4
     fields:
+    - type: text
+      name: title_4
+      label: Title 4
     - type: textarea
       name: blurb
       label: Blurb
