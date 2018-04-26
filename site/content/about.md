@@ -14,6 +14,10 @@ While the boom in tourism and land development appears to have brought significa
 * Provide educational workshops on topics such as Entrepreneurship, Finance, Marketing, Management, English Classes, and Life Coaching that will both support the opening of new small businesses and increase eligibility for senior level positions in existing businesses.
 * Provide ongoing mentorship to Program Participants to foster continued growth in their businesses. Connect emerging business owners to crucial resources such as grants, loans, and professional services.
 
+## Our Program
+
+Vive el Sueño provides local Costa Ricans wanting to open or grow their own business a 2 week / 40 hour intensive business training with the teaching group, [Yo Emprendedor](http://yoemprendedor.net/). After graduating from the business trainings, our participants are offered 10 months of 2x weekly English classes with a TEFL certified instructor, social media coaching, a professional logo design, a professional photo shoot and ongoing support to help the participant with their business.
+
 ### See what others are saying about Vive el Sueño
 
 * [Nosara Stories - How did the “Vive el Sueño” initiative start?](http://www.nosarastories.com/life-stories/entrepreneur-nosara/)
