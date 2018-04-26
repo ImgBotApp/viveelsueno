@@ -23,7 +23,7 @@ blurb = "One on one session with our graphics design artist Zacc Pollit to creat
 title = ""
 title_3 = "Diseño de logotipo y sesión de fotos"
 [program.item_4]
-blurb = "One on one social media training sessions with Rebecca Schmidt where our participants are shown how to create their accounts, reach out to their community, attract new clients and make a social media marketing plan."
+blurb = "Entrenamientos de redes sociales uno a uno con Rebecca Schmidt, donde se muestra a nuestros participantes cómo crear sus cuentas, llegar a su comunidad, atraer nuevos clientes y hacer un plan de mercadeo en las redes sociales."
 title = ""
 title_4 = "Coaching en redes sociales"
 
