@@ -14,10 +14,6 @@ Si bien el auge en el turismo y el desarrollo de la tierra parece haber traído 
 * Proporcionar talleres educativos sobre temas como Emprendimiento, Finanzas, Marketing, Administración, Clases de inglés y Coaching de vida que respalden la apertura de nuevas pequeñas empresas y aumenten la elegibilidad para puestos de alto nivel en empresas existentes.
 * Proporcionar tutoría constante a los Participantes del Programa para fomentar el crecimiento continuo en sus negocios. Conecte a los propietarios de empresas emergentes con recursos cruciales, como subvenciones, préstamos y servicios profesionales.
 
-  Nuestro programa
-
-  Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crecer su propio negocio una capacitación empresarial intensiva de 2 semanas / 40 horas con el grupo docente Yo Emprendedor. Después de graduarse de los entrenamientos, a nuestros participantes se les ofrecen 10 meses de clases semanales de 2x con un instructor certificado TEFL, entrenamiento en redes sociales, un diseño de logotipo profesional, una sesión fotográfica profesional y apoyo continuo para ayudar al participante en sus negocios.
-
 ## Nuestro programa
 
 Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crecer su propio negocio una capacitación empresarial intensiva de 2 semanas / 40 horas con el grupo docente Yo Emprendedor. Después de graduarse de los entrenamientos, a nuestros participantes se les ofrecen 10 meses de clases semanales de 2x con un instructor certificado TEFL, entrenamiento en redes sociales, un diseño de logotipo profesional, una sesión fotográfica profesional y apoyo continuo para ayudar al participante en sus negocios.
