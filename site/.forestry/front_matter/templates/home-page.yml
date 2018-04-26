@@ -78,8 +78,8 @@ fields:
     label: Item 3
     fields:
     - type: text
-      name: title_3
-      label: Title 3
+      name: title
+      label: Title
     - type: textarea
       name: blurb
       label: Blurb
