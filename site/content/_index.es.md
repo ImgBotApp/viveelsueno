@@ -24,7 +24,7 @@ title = "Diseño de logotipo y sesión de fotos"
 title_3 = "Diseño de logotipo y sesión de fotos"
 [program.item_4]
 blurb = "Entrenamientos de redes sociales uno a uno con Rebecca Schmidt, donde se muestra a nuestros participantes cómo crear sus cuentas, llegar a su comunidad, atraer nuevos clientes y hacer un plan de mercadeo en las redes sociales."
-title = ""
+title = "Coaching en redes sociales"
 title_4 = "Coaching en redes sociales"
 
 +++
