@@ -90,8 +90,8 @@ fields:
     label: Item 4
     fields:
     - type: text
-      name: title_4
-      label: Title 4
+      name: title
+      label: Title
     - type: textarea
       name: blurb
       label: Blurb
