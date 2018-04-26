@@ -16,8 +16,8 @@ link = "#donate"
 blurb = "40 horas de sesiones de capacitación empresarial intensiva celebradas durante 2 semanas por el grupo de enseñanza Yo Emprendedor en la Biblioteca David Kitson."
 title = "Capacitación del trabajo"
 [program.item_2]
-blurb = "<img src=\"/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-7.jpg\">"
-title = ""
+blurb = "10 meses de clases de inglés de 2 horas, dos veces por semana, adaptadas a los negocios individuales de nuestros participantes y enseñadas por un instructor certificado por TEFL en el Instituto Español de Nosara."
+title = "Lecciones de inglés"
 [program.item_3]
 blurb = "<img src=\"/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-53.jpg\">"
 title = ""
