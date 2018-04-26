@@ -128,3 +128,7 @@
 .content li {
   margin: 1rem 0;
 }
+
+.content img {
+  max-width: 100%;
+}

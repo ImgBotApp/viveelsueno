@@ -13,16 +13,16 @@ url = "/about"
 label = "Make a donation"
 link = "#donate"
 [program.item_1]
-blurb = "Our program provides local Costa Ricans wanting to open or grow their own business a 2 week/40 hour intensive business training with the teaching group, <a href=\"http://yoemprendedor.net/\" title=\"\">Yo Emprendedor</a>. After graduating, our participants are offered 10 months of 2x weekly English classes with a TEFL certified instructor , social media coaching, a professional logo design and a professional photo shoot to help the participant with their business."
-title = "Makes a real difference"
+blurb = "40 hours of intensive business training sessions held over 2 weeks by teaching group Yo Emprendedor at the David Kitson Library."
+title = "Business Training"
 [program.item_2]
-blurb = "<img src=\"/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-7.jpg\">"
-title = "Gets our students ahead"
+blurb = "10 months of 2 hour, twice weekly English classes, tailored to our participants' individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
+title = "English Lessons"
 [program.item_3]
-blurb = "<img src=\"/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-53.jpg\">"
-title = "Gets our students ahead"
+blurb = "One on one session with our graphics design artist Zacc Pollit to create a personalized, professional logo and a photoshoot with our photographer Veronica Monge where our participants get a chance to have their photos taken in the context of their new business."
+title = "Logo Design & Photoshoot"
 [program.item_4]
-blurb = "We provide 40 hours of intensive real-world business training, English classes, social media coaching and professional logo design which helps our students get on their feet and straight into their market."
-title = "Makes a real difference"
+blurb = "One on one social media training sessions with Rebecca Schmidt where our participants are shown how to create their accounts, reach out to their community, attract new clients and make a social media marketing plan."
+title = "Social Media Coaching"
 
 +++
