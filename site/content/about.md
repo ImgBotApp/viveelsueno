@@ -20,10 +20,13 @@ Vive el Sueño provides local Costa Ricans wanting to open or grow their own bus
 
 ![](/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-53-1.jpg)
 
-![](/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-7-1.jpg)![](/uploads/2018/04/26/tarzan.jpg)
+![](/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-7-1.jpg)
+
+![](/uploads/2018/04/26/tarzan.jpg)
 
 ### See what others are saying about Vive el Sueño
 
 * [Nosara Stories - How did the “Vive el Sueño” initiative start?](http://www.nosarastories.com/life-stories/entrepreneur-nosara/)
 * [Humans of Nosara - Rebecca Schmidt](https://www.humansofnosara.org/human/rebecca-schmidt/)
 * [Voice of Guanacaste - Foundation Fulfills Dreams of Nosarans and Helps Them Start Their Own Businesses](http://www.vozdeguanacaste.com/en/articles/2016/06/08/foundation-fulfills-dreams-nosarans-and-helps-them-start-their-own-businesses)
+* [Nosara Stories - Iris: I want my kids to be proud of me, as I am of them](http://www.nosarastories.com/life-stories/kids-proud-of-me)

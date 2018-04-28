@@ -29,3 +29,4 @@ Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crec
 * [Historias de Nosara: ¿Cómo comenzó la iniciativa "Vive el Sueño"?](http://www.nosarastories.com/life-stories/entrepreneur-nosara/)
 * [Humanos de Nosara - Rebecca Schmidt](https://www.humansofnosara.org/es/human/rebecca-schmidt/)
 * [Voz de Guanacaste - Fundación cumple sueños de nosareños y ayuda a crear sus propios negocios](http://www.vozdeguanacaste.com/es/articulos/2016/06/08/fundacion-cumple-suenos-de-nosarenos-y-ayuda-crear-sus-propios-negocios)
+* [Historias de Nosara: Iris - Quiero que mis hijos estén orgullosos de mí, como yo soy de ellos](http://www.nosarastories.com/life-stories/kids-proud-of-me)
