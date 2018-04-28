@@ -6,4 +6,4 @@ teaser_image = "/uploads/2018/04/06/david-disch.jpg"
 title = "David Disch"
 
 +++
-David Disch comenzó con Live the Dream en 2017. Dirige el diseño, desarrollo y mantenimiento del sitio web. David vino a Nosara a principios de 2017 y ha estado haciendo trabajo de desarrollo web desde una oficina ubicada en la ciudad. Él trabaja independientemente para una serie de clientes de todo el mundo. Con experiencia en una amplia gama de tecnologías en la industria, David puede llevar el sitio de Vive el Sueño a la vanguardia del cambiante entorno en línea.
+David Disch comenzó con Vive el Sueño en 2017. Dirige el diseño, desarrollo y mantenimiento del sitio web. David vino a Nosara a principios de 2017 y ha estado haciendo trabajo de desarrollo web desde una oficina ubicada en la ciudad. Él trabaja independientemente para una serie de clientes de todo el mundo. Con experiencia en una amplia gama de tecnologías en la industria, David puede llevar el sitio de Vive el Sueño a la vanguardia del siempre cambiante entorno en línea.
