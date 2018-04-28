@@ -4,7 +4,7 @@ date = "2018-04-28T01:48:57+00:00"
 external_url = ""
 masthead_image = ""
 phone_number = "(506) 2682-0371"
-teaser_image = ""
+teaser_image = "/uploads/2018/04/28/ruth-juarez-cordoba.jpg"
 title = "Ruth Juarez Cordoba"
 
 +++
