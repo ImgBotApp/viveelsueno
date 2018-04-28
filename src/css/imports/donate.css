@@ -234,6 +234,12 @@ p.donate__blurb {
   padding: 0 1rem;
   margin: 2rem auto;
   font-size: 1.1rem;
+  font-weight: 400;
+  max-width: 500px;
+
+  @media (min-width: 840px) {
+    max-width: none;
+  }
 }
 
 .donate__image {
