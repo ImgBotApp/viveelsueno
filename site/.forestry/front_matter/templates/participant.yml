@@ -87,6 +87,9 @@ fields:
   config:
     maxSize: '2'
 - type: file
+  name: teaser_logo
+  label: Teaser Logo
+- type: file
   name: masthead_image
   label: Masthead Image
   config:
