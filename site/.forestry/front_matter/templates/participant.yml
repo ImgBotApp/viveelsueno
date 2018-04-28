@@ -67,6 +67,9 @@ fields:
   label: Phone number
   config:
     required: true
+- type: text
+  name: url
+  label: URL
 - type: file
   name: teaser_image
   label: Teaser Image
