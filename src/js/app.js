@@ -85,4 +85,22 @@ $(document).ready(() => {
       }
     });
   });
+
+  $('#form-newsletter-subscribe').submit((e) => {
+    e.preventDefault();
+    $.post(
+      'https://wt-07ecda8053e9157184aef4084d1d2126-0.sandbox.auth0-extend.com/mailchimp-subscribe'
+    , {
+      email: $(e.target).find('input[name="email"]').val()
+    }, (response) => {
+      if (response.status === 200) {
+        const responseText = $('<p></p>').text('Thank you for subscribing to our newsletter.');
+        $('#form-newsletter-subscribe').replaceWith(responseText);
+      } else {
+        $('#form-newsletter-subscribe .socials__email-input').css({
+          border: '2px solid #b54545'
+        });
+      }
+    }, 'json');
+  });
 });
