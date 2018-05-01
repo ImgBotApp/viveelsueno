@@ -11,6 +11,10 @@
   }
 }
 
+.socials__right {
+  margin: 1rem;
+}
+
 .socials__buttons {
   margin: 1.25rem 0;
 }
