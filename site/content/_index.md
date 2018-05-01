@@ -17,7 +17,7 @@ blurb = "Participants are offered a 40 hour/2 week intensive business training b
 title = "Business Training"
 [program.item_2]
 blurb = "Participants are offered 10 months of 2 hour, twice weekly English classes, tailored to our participants individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
-title = "English Lessons"
+title = "English Classes"
 [program.item_3]
 blurb = "Participants are offered one on one session with our graphics design artist, Zacc Pollit to create a personalized, professional logo and a professional photo session with photographer, Veronica Monge to help them with their marketing and advertising."
 title = "Logo Design & Professional Photos"
