@@ -22,7 +22,7 @@ title = "English Classes"
 blurb = "Participants are offered one on one session with our graphics design artist, Zacc Pollit to create a personalized, professional logo and a professional photo session with photographer, Veronica Monge to help them with their marketing and advertising."
 title = "Logo Design & Professional Photos"
 [program.item_4]
-blurb = "One on one social media training sessions with Rebecca Schmidt where our participants are shown how to create their accounts, reach out to their community, attract new clients and make a social media marketing plan."
-title = "Social Media Coaching"
+blurb = "Participants are offered one on one social media sessions where they are shown how to create their own social media accounts and utilize them to attract new clients and how to create a social media marketing plan. They are also given ongoing support and connections through community events and advertising."
+title = "Social Media and Ongoing Support"
 
 +++
