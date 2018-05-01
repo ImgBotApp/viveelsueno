@@ -25,11 +25,11 @@ h2.participants__title {
 }
 
 .participant__teaser-title {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin: 1rem 0 .25rem 0;
 
   @media (min-width: 480px) {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 

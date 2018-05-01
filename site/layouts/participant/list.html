@@ -3,7 +3,7 @@
 {{ partial "masthead" . }}
 <main class="page" role="main">
   <div class="participants">
-  {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "participant" }}
+  {{ range where .Site.Pages.ByPublishDate "Section" "participant" }}
     {{ if eq .Kind "page" }}
       {{ .Render "teaser" }}
     {{ end }}

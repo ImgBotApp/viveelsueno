@@ -33,7 +33,7 @@
 
 .masthead__title {
   font-size: 2rem;
-  margin: 0;
+  margin: 0 1rem;
 
   @media (min-width: 720px) {
     font-size: 3rem;

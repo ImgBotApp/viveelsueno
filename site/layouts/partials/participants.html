@@ -2,7 +2,7 @@
   <h2 class="participants__title">{{ i18n "Our Participants" }}</h2>
   <div class="participants__list">
     {{ $.Scratch.Add "c2" 0 }}
-    {{ range where .Site.Pages.ByPublishDate.Reverse "Section" "participant" }}
+    {{ range where .Site.Pages.ByPublishDate "Section" "participant" }}
       {{ if eq .Kind "page" }}
         {{ if lt ($.Scratch.Get "c2") 8 }}
           {{ .Render "teaser" }}
