@@ -1,6 +1,6 @@
 +++
 brand_name = "Beet Salads"
-date = "2018-05-01T05:30:02+00:00"
+date = "2018-05-01T05:30:02Z"
 external_url = ""
 masthead_image = ""
 phone_number = "(506) 8599-3193"

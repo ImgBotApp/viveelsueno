@@ -1,6 +1,6 @@
 +++
 brand_name = "Tijeras Magicas Peluquería"
-date = "2018-05-01T04:46:27+00:00"
+date = "2018-05-01T04:46:27Z"
 external_url = "https://www.facebook.com/Magic-Scissors-Salon-540379582703104"
 masthead_image = ""
 phone_number = "(506) 8870-6414"

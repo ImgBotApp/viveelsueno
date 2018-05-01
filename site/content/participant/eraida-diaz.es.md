@@ -1,6 +1,6 @@
 +++
 brand_name = "Costuras y Pinturas Diaz"
-date = "2018-05-01T03:18:44+00:00"
+date = "2018-05-01T03:18:44Z"
 external_url = ""
 masthead_image = ""
 phone_number = "(506) 8667-4044"
