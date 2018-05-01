@@ -1,6 +1,11 @@
 +++
+brand_name = "Sabor de la Montaña"
 date = "2018-05-01T05:24:31+00:00"
-draft = true
+external_url = ""
+masthead_image = ""
+phone_number = "(506) 8550-7622"
+teaser_image = ""
+teaser_logo = ""
 title = "Heidi Cordero Castillo"
 
 +++
