@@ -1,5 +1,5 @@
 +++
-brand_name = "Organic Egg Fram"
+brand_name = "Organic Egg Farm"
 date = "2018-05-01T05:25:06+00:00"
 external_url = ""
 masthead_image = ""
