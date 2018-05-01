@@ -2,6 +2,11 @@
 {{ if (isset .Params "masthead_image") }}
   {{ $.Scratch.Set "url" .Params.masthead_image }}
 {{ end }}
+{{ if eq .Kind "page" }}
+  {{ if eq .Section "team" }}
+    {{ $.Scratch.Set "url" $.Site.Data.site.Masthead }}
+  {{ end }}
+{{ end }}
 <div class="masthead" style='background-image: url({{ $.Scratch.Get "url" }});'>
   <div class="masthead__content">
     <h1 class="masthead__title">
