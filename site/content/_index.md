@@ -13,7 +13,7 @@ url = "/about"
 label = "Make a donation"
 link = "#donate"
 [program.item_1]
-blurb = "40 hours of intensive business training sessions held over 2 weeks by teaching group Yo Emprendedor at the David Kitson Library."
+blurb = "Participants are offered a 40 hour/2 week intensive business training by teaching group Yo Emprendedor at the David Kitson Library. Topics include: Opportunities and Entrepreneurship, Presentation Abilities, Business Model, Finances &amp; Negotiation, Legalization in Costa Rica, Business Operating Procedures, Marketing and Customer Service, Financing Options, Projections, Business Products and Services."
 title = "Business Training"
 [program.item_2]
 blurb = "10 months of 2 hour, twice weekly English classes, tailored to our participants' individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
