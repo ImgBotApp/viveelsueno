@@ -54,6 +54,7 @@ h2.participants__title {
   height: 80px;
   background-size: cover;
   background-position: center;
+  background-color: #ccc;
   border-radius: 50%;
 
   @media (min-width: 380px) {
