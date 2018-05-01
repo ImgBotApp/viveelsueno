@@ -19,8 +19,8 @@ title = "Business Training"
 blurb = "Participants are offered 10 months of 2 hour, twice weekly English classes, tailored to our participants' individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
 title = "English Lessons"
 [program.item_3]
-blurb = "One on one session with our graphics design artist Zacc Pollit to create a personalized, professional logo and a photoshoot with our photographer Veronica Monge where our participants get a chance to have their photos taken in the context of their new business."
-title = "Logo Design & Photoshoot"
+blurb = "Participants are offered one on one session with our graphics design artist, Zacc Pollit to create a personalized, professional logo and a professional photo session with photographer, Veronica Monge to help them with their marketing and advertising."
+title = "Logo Design & Professional Photos"
 [program.item_4]
 blurb = "One on one social media training sessions with Rebecca Schmidt where our participants are shown how to create their accounts, reach out to their community, attract new clients and make a social media marketing plan."
 title = "Social Media Coaching"
