@@ -1,5 +1,5 @@
 +++
-brand_name = "Pillows and Slip Covers"
+brand_name = "Almohadas Cari Blue"
 date = "2018-05-01T05:32:09+00:00"
 external_url = ""
 masthead_image = ""
