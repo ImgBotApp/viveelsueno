@@ -1,5 +1,6 @@
 ---
 pages:
+- team/christina-baal-owens.es.md
 - team/zacc-pollitt.es.md
 - team/rebecca-schmidt.md
 - team/zacc-pollitt.md
@@ -12,7 +13,6 @@ pages:
 - team/rebecca-schmidt.es.md
 - team/veronica-monge.es.md
 - team/christina-baal-owens.md
-- team/christina-baal-owens.es.md
 - team/david-disch.es.md
 hide_body: false
 is_partial: false
