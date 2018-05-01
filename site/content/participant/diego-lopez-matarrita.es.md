@@ -1,6 +1,6 @@
 +++
 brand_name = "Remodelaciones Chorotega"
-date = "2018-05-01T05:03:34+00:00"
+date = "2018-05-01T05:03:34Z"
 external_url = "https://www.facebook.com/DIEGOLOPEZ2077"
 masthead_image = ""
 phone_number = "(506) 8662-4660"

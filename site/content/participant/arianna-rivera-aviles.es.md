@@ -1,6 +1,6 @@
 +++
 brand_name = "Ari's Boutique"
-date = "2018-05-01T05:05:52+00:00"
+date = "2018-05-01T05:05:52Z"
 external_url = ""
 masthead_image = ""
 phone_number = "(506) 8674-3627"

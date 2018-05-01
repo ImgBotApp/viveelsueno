@@ -1,6 +1,6 @@
 +++
 brand_name = "Sabor de la Montaña"
-date = "2018-05-01T05:13:53+00:00"
+date = "2018-05-01T05:13:53Z"
 external_url = ""
 masthead_image = ""
 phone_number = "(506) 8550-7622"
