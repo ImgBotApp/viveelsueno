@@ -1,7 +1,7 @@
 ---
 pages:
-- about.md
 - about.es.md
+- about.md
 hide_body: false
 is_partial: false
 fields:
