@@ -50,8 +50,8 @@ h2.participants__title {
 
 .participant__teaser-image {
   display: inline-block;
-  width: 80px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   background-size: cover;
   background-position: center;
   background-color: #ccc;
