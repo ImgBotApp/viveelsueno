@@ -13,16 +13,16 @@ url = "/about"
 label = "Make a donation"
 link = "#donate"
 [program.item_1]
-blurb = "40 hours of intensive business training sessions held over 2 weeks by teaching group Yo Emprendedor at the David Kitson Library."
-title = "Business Training"
+blurb = "Participants are offered a 40 hour/2 week intensive business training by teaching group Yo Emprendedor at the David Kitson Library. Topics include: Opportunities and Entrepreneurship, Presentation Abilities, Business Model, Finances &amp; Negotiation, Legalization in Costa Rica, Business Operating Procedures, Marketing and Customer Service, Financing Options, Projections, Business Products and Services."
+title = "40 hour/2 week Intensive Business Training"
 [program.item_2]
-blurb = "10 months of 2 hour, twice weekly English classes, tailored to our participants' individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
-title = "English Lessons"
+blurb = "Participants are offered 10 months of 2 hour, twice weekly English classes, tailored to our participants individual businesses and taught by a TEFL certified instructor at the Nosara Spanish Institute."
+title = "English Classes"
 [program.item_3]
-blurb = "One on one session with our graphics design artist Zacc Pollit to create a personalized, professional logo and a photoshoot with our photographer Veronica Monge where our participants get a chance to have their photos taken in the context of their new business."
-title = "Logo Design & Photoshoot"
+blurb = "Participants are offered one on one session with our graphics design artist, Zacc Pollit to create a personalized, professional logo and a professional photo session with photographer, Veronica Monge to help them with their marketing and advertising."
+title = "Logo Design & Professional Photos"
 [program.item_4]
-blurb = "One on one social media training sessions with Rebecca Schmidt where our participants are shown how to create their accounts, reach out to their community, attract new clients and make a social media marketing plan."
-title = "Social Media Coaching"
+blurb = "Participants are offered one on one social media sessions where they are shown how to create their own social media accounts and utilize them to attract new clients and how to create a social media marketing plan. They are also given ongoing support and connections through community events and advertising."
+title = "Social Media and Ongoing Support"
 
 +++
