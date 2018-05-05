@@ -45,8 +45,8 @@ h2.team__title {
 
 .team__teaser-image {
   display: inline-block;
-  width: 80px;
-  height: 80px;
+  width: 175px;
+  height: 175px;
   background-size: cover;
   background-position: center;
   border-radius: 50%;
