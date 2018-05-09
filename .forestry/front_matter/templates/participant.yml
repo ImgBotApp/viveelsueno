@@ -1,0 +1,128 @@
+---
+pages:
+- participant/maria-fernanda-alvarado-arrieta.es.md
+- participant/maria-fernanda-alvarado-arrieta.md
+- participant/giovanni-acedo.es.md
+- participant/giovanni-acedo.md
+- participant/elena-gomez.es.md
+- participant/elena-gomez.md
+- participant/magda-dailey.es.md
+- participant/magda-dailey.md
+- participant/erika-rojas-cambronero.es.md
+- participant/erika-rojas-cambronero.md
+- participant/ivan-varela-chavarria.es.md
+- participant/ivan-varela-chavarria.md
+- participant/heidi-cordero-castillo.es.md
+- participant/heidi-cordero-castillo.md
+- participant/luis-diego-perez-jiron.es.md
+- participant/luis-diego-perez-jiron.md
+- participant/heiner-diaz-matarrita.es.md
+- participant/heiner-diaz-matarrita.md
+- participant/arianna-rivera-aviles.es.md
+- participant/arianna-rivera-aviles.md
+- participant/diego-lopez-matarrita.es.md
+- participant/diego-lopez-matarrita.md
+- participant/maria-jesus-villagra-quiros.es.md
+- participant/maria-jesus-villagra-quiros.md
+- participant/jeannette-vargas-ramirez.es.md
+- participant/jeannette-vargas-ramirez.md
+- participant/maria-zuniga-diaz.es.md
+- participant/maria-zuniga-diaz.md
+- participant/jose-matamoros.es.md
+- participant/jose-matamoros.md
+- participant/eraida-diaz.es.md
+- participant/eraida-diaz.md
+- participant/ruth-juarez-cordoba.es.md
+- participant/sara-baltodano-lopez.es.md
+- participant/sara-baltodano-lopez.md
+- participant/ruth-juarez-cordoba.md
+- participant/pilar-montiel-noguera.es.md
+- participant/pilar-montiel-noguera.md
+- participant/iris-jiron-castillo.es.md
+- participant/iris-jiron-castillo.md
+- participant/sonia-cordoba-porras.es.md
+- participant/sonia-cordoba-porras.md
+- participant/alicia-artavia.es.md
+- participant/alicia-artavia.md
+- participant/hannia-and-nathalie-matarrita.es.md
+- participant/milagro-castillo.es.md
+- participant/milagro-castillo.md
+- participant/yaniria-gonzalez.es.md
+- participant/yaniria-gonzalez.md
+- participant/sheyla-rosales-dinarte.es.md
+- participant/sheyla-rosales-dinarte.md
+- participant/elizabeth-bran-rosales.es.md
+- participant/elizabeth-bran-rosales.md
+- participant/anadilsa-rosales-diaz.es.md
+- participant/anadilsa-rosales-diaz.md
+- participant/moises-lopez.es.md
+- participant/moises-lopez.md
+- participant/dayana-reyes-garcia.es.md
+- participant/hannia-and-nathalie-matarrita.md
+- participant/dayana-reyes-garcia.md
+- participant/karina-rosales-marchena.es.md
+- participant/karina-rosales-marchena.md
+- participant/federico-arrieta-villagra.es.md
+- participant/federico-arrieta-villagra.md
+- participant/marley-obando.es.md
+- participant/marley-obando.md
+- participant/shirley-rojas-lopez.es.md
+- participant/shirley-rojas-lopez.md
+- participant/yohan-mendez-ruiz.es.md
+- participant/yohan-mendez-ruiz.md
+- participant/adilsa-fajardo-carrillo.es.md
+- participant/adilsa-fajardo-carrillo.md
+- participant/ronald-campos-baltodano.es.md
+- participant/ronald-campos-baltodano.md
+- participant/saray-zeledon-rojas.es.md
+- participant/saray-zeledon-rojas.md
+- participant/virginia-alfaro-cordero.es.md
+- participant/virginia-alfaro-cordero.md
+- participant/yohana-betena-naravez.es.md
+- participant/yohana-betena-naravez.md
+- participant/leda-patricia-matarrita-arroya.es.md
+- participant/leda-patricia-matarrita-arroya.md
+- participant/isidora-rojas-cambronero.es.md
+- participant/isidora-rojas-cambronero.md
+- participant/ines-guadalupe-rosales-lopez.es.md
+- participant/ines-guadalupe-rosales-lopez.md
+- participant/alexandra-perez-avila.es.md
+- participant/alexandra-perez-avila.md
+- participant/warren-arrieta-juarez.es.md
+- participant/warren-arrieta-juarez.md
+- participant/graciela-lopez-alfaro.es.md
+- participant/graciela-lopez-alfaro.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: text
+  name: brand_name
+  label: Brand Name
+  config:
+    required: true
+- type: text
+  name: phone_number
+  label: Phone number
+  config:
+    required: true
+- type: text
+  name: external_url
+  label: URL
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
+- type: file
+  name: teaser_logo
+  label: Teaser Logo
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'

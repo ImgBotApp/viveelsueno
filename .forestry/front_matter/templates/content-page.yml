@@ -1,0 +1,15 @@
+---
+pages:
+- about.es.md
+- about.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '1'

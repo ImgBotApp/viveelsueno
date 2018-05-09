@@ -1,0 +1,52 @@
+---
+pages:
+- team/veronica-monge.es.md
+- team/veronica-monge.md
+- team/megan-barnett.es.md
+- team/christina-baal-owens.es.md
+- team/zacc-pollitt.es.md
+- team/rebecca-schmidt.md
+- team/zacc-pollitt.md
+- team/david-disch.md
+- team/ileana-aviles.md
+- team/ileana-aviles.es.md
+- team/megan-barnett.md
+- team/rebecca-schmidt.es.md
+- team/christina-baal-owens.md
+- team/david-disch.es.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: select
+  name: role
+  config:
+    source:
+      type: simple
+    options:
+    - Volunteer
+    - Web Developer
+    - Project Manager
+    - Business Program Coordinator
+    - English Program Director
+    - Photographer
+    - Graphic Designer
+    - Founder
+    - Admin & Operations
+    required: true
+  label: Role
+  default: Volunteer
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'
