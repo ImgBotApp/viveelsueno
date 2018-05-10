@@ -6,8 +6,8 @@
   {{ if .Params.external_url }}
   <a class="participant__teaser-link" target="_blank" href="{{ .Params.external_url }}">
   {{ end }}
-    <div class="participant__teaser-image" style="background-image: url('{{ .Params.teaser_image }}');">
-      <div class="participant__teaser-logo" style="background-image: url('{{ $teaser_logo }}')"></div>
+    <div class="lazy participant__teaser-image" data-src="{{ .Params.teaser_image }}">
+      <div class="lazy participant__teaser-logo" data-src="{{ $teaser_logo }}"></div>
     </div>
     <h3 class="participant__teaser-title">{{ .Title }}</h3>
     <div class="participant__teaser-business">{{ .Params.brand_name }}</div>

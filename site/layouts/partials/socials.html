@@ -3,10 +3,10 @@
     <h3 class="socials__title">{{ i18n "Follow us" }}</h3>
     <div class="socials__buttons">
       <a class="socials__button" href="{{ $.Site.Data.social.Facebook.url }}" target="_blank">
-        <img class="socials__icon" src="/img/Icon-Facebook.png" alt="">
+        <img class="lazy socials__icon" data-src="/img/Icon-Facebook.png" alt="">
       </a>
       <a class="socials__button" href="{{ $.Site.Data.social.Instagram.url }}" target="_blank">
-        <img class="socials__icon" src="/img/Icon-Instagram.png" alt="">
+        <img class="lazy socials__icon" data-src="/img/Icon-Instagram.png" alt="">
       </a>
     </div>
     <h3 class="socials__title">{{ i18n "Join our newsletter" }}</h3>

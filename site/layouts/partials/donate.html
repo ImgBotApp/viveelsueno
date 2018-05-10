@@ -1,6 +1,6 @@
 <div class="donate" id="donate">
   <div class="donate__left">
-    <img class="donate__badge" src="/img/501c3.png" alt="">
+    <img class="lazy donate__badge" data-src="/img/501c3.png" alt="">
     <h2 class="donate__title">{{ i18n "Donate" }}</h2>
     <form id="form-donate" action="https://www.paypal.com/cgi-bin/webscr">
       <input type="hidden" name="cmd" value="_donations">
@@ -50,6 +50,6 @@
     </form>
   </div>
   <div class="donate__right">
-    <div style="background-image: url({{ $.Site.Data.site.Donate.Image }});" class="donate__image"></div>
+    <div data-src="{{ $.Site.Data.site.Donate.Image }}" class="lazy donate__image"></div>
   </div>
 </div>

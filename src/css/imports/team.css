@@ -49,5 +49,6 @@ h2.team__title {
   height: 175px;
   background-size: cover;
   background-position: center;
+  background-color: #eee;
   border-radius: 50%;
 }
