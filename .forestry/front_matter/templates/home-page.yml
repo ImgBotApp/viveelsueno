@@ -1,0 +1,99 @@
+---
+pages:
+- _index.md
+- _index.es.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  label: Subtitle
+  name: subtitle
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '1'
+- type: field_group
+  name: call_to_action_button
+  label: Call to Action Button
+  fields:
+  - type: text
+    name: label
+    label: Label
+  - type: text
+    name: link
+    label: Link
+- type: field_group
+  name: blurb
+  label: Blurb
+  fields:
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: false
+  - type: field_group
+    label: Button
+    name: button
+    fields:
+    - type: text
+      name: url
+      label: URL
+    - type: text
+      name: text
+      label: Text
+- type: field_group
+  name: program
+  label: Program
+  fields:
+  - type: field_group
+    name: item_1
+    label: Item 1
+    fields:
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: blurb
+      label: Blurb
+      config:
+        wysiwyg: true
+  - type: field_group
+    name: item_2
+    label: Item 2
+    fields:
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: blurb
+      label: Blurb
+      config:
+        wysiwyg: true
+  - type: field_group
+    name: item_3
+    label: Item 3
+    fields:
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: blurb
+      label: Blurb
+      config:
+        wysiwyg: true
+  - type: field_group
+    name: item_4
+    label: Item 4
+    fields:
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: blurb
+      label: Blurb
+      config:
+        wysiwyg: true

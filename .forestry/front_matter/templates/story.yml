@@ -1,0 +1,24 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Published
+  config:
+    required: true
+- type: file
+  name: masthead_image
+  label: Masthead Image
+  config:
+    maxSize: '2'
+- type: file
+  name: teaser_image
+  label: Teaser Image
+  config:
+    maxSize: '2'
