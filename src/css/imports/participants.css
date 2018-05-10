@@ -49,6 +49,7 @@ h2.participants__title {
 }
 
 .participant__teaser-image {
+  position: relative;
   display: inline-block;
   width: 175px;
   height: 175px;
@@ -56,11 +57,19 @@ h2.participants__title {
   background-position: center;
   background-color: #ccc;
   border-radius: 50%;
+}
 
-  @media (min-width: 380px) {
-    width: 128px;
-    height: 128px;
-  }
+.participant__teaser-logo {
+  position: absolute;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  bottom: 0;
+  right: 0;
+  background-size: cover;
+  background-position: center;
+  background-color: #ccc;
+  box-shadow: 0 0 30px 0 #000;
 }
 
 .participants .button {

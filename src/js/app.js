@@ -67,25 +67,6 @@ $(document).ready(() => {
     }
   });
 
-  let items;
-  $.getJSON('https://www.instagram.com/viveelsueno/?__a=1', (data) => {
-    items = data.graphql.user.edge_owner_to_timeline_media.edges;
-    $.each(items, (n, item) => {
-      if (n % 2 === 0 && n / 2 < 6) {
-        const node = item.node;
-        $('.socials__instagram-feed').append(
-          $('<a/>', {
-            class: 'socials__instagram-photo',
-            href: 'https://www.instagram.com/p/' + node.shortcode,
-            target: '_blank'
-          }).css({
-            backgroundImage: 'url(' + node.thumbnail_resources[0].src + ')'
-          })
-        );
-      }
-    });
-  });
-
   $('#form-newsletter-subscribe').submit((e) => {
     e.preventDefault();
     $.post(
