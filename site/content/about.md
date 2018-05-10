@@ -16,7 +16,9 @@ While the boom in tourism and land development appears to have brought significa
 
 ## Our Program
 
-Vive el Sueño provides local Costa Ricans wanting to open or grow their own business a 2 week / 40 hour intensive business training with the teaching group, [Yo Emprendedor](http://yoemprendedor.net/). After graduating from the business trainings, our participants are offered 10 months of 2x weekly English classes with a TEFL certified instructor, social media coaching, a professional logo design, a professional photo shoot and ongoing support to help the participant with their business.
+Vive el Sueño provides local Costa Ricans wanting to open or grow their own business a 2 week / 40 hour intensive business training with the teaching group, [Yo Emprendedor](http://yoemprendedor.net/). Topics include: Opportunities and Entrepreneurship, Presentation Abilities, Business Model, Finances & Negotiation, Legalization in Costa Rica, Business Operating Procedures, Marketing and Customer Service, Financing Options, Projections, Business Products and Services.
+
+After graduating from the business trainings, our participants are offered 10 months of 2x weekly English classes with a TEFL certified instructor, social media coaching, a professional logo design, a professional photo shoot and ongoing support to help the participant with their business.
 
 ![](/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-53-1.jpg)
 

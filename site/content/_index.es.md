@@ -13,18 +13,16 @@ url = "/es/about"
 label = "Haz una donación"
 link = "#donate"
 [program.item_1]
-blurb = "40 horas de sesiones de capacitación empresarial intensiva celebradas durante 2 semanas por el grupo de enseñanza Yo Emprendedor en la Biblioteca David Kitson."
+blurb = "A los participantes se les ofrece una capacitación intensiva de negocios de 40 horas / 2 semanas por parte del grupo docente Yo Emprendedor en la Biblioteca David Kitson."
 title = "Capacitación del trabajo"
 [program.item_2]
-blurb = "10 meses de clases de inglés de 2 horas, dos veces por semana, adaptadas a los negocios individuales de nuestros participantes y enseñadas por un instructor certificado por TEFL en el Instituto Español de Nosara."
+blurb = "A los participantes se les ofrecen 10 meses de clases de inglés de 2 horas dos veces por semana, adaptadas a los negocios individuales de nuestros participantes y dictadas por un instructor certificado por TEFL en el Instituto Español de Nosara."
 title = "Lecciones de inglés"
 [program.item_3]
-blurb = "Sesión individual con nuestro diseñador de gráficos Zacc Pollit para crear un logotipo personalizado y profesional y una sesión de fotos con nuestra fotógrafa Veronica Monge, donde nuestros participantes tienen la oportunidad de tomar sus fotos en el contexto de su nuevo negocio."
+blurb = "A los participantes se les ofrece una sesión individual con nuestro artista de diseño gráfico, Zacc Pollit, para crear un logo personalizado y profesional y una sesión de fotos profesional con la fotógrafa Veronica Monge para ayudarlos con su mercadotecnia y publicidad."
 title = "Diseño de logotipo y fotos"
-title_3 = "Diseño de logotipo y sesión de fotos"
 [program.item_4]
-blurb = "Entrenamientos de redes sociales uno a uno con Rebecca Schmidt, donde se muestra a nuestros participantes cómo crear sus cuentas, llegar a su comunidad, atraer nuevos clientes y hacer un plan de mercadeo en las redes sociales."
+blurb = "A los participantes se les ofrecen sesiones de redes sociales individuales en las que se les muestra cómo crear sus propias cuentas de redes sociales y utilizarlas para atraer a nuevos clientes y cómo crear un plan de marketing en redes sociales. También reciben apoyo y conexiones continuas a través de eventos comunitarios y publicidad."
 title = "Coaching en redes sociales"
-title_4 = "Coaching en redes sociales"
 
 +++

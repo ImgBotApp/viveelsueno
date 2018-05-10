@@ -17,7 +17,9 @@ Proporcionar tutoría constante a los Participantes del Programa para fomentar e
 
 Nuestro programa
 
-Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crecer su propio negocio una capacitación empresarial intensiva de 2 semanas / 40 horas con el grupo docente Yo Emprendedor. Después de graduarse de los entrenamientos, a nuestros participantes se les ofrecen 10 meses de clases semanales de 2x con un instructor certificado TEFL, entrenamiento en redes sociales, un diseño de logotipo profesional, una sesión fotográfica profesional y apoyo continuo para ayudar al participante en sus negocios.
+Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crecer su propio negocio una capacitación empresarial intensiva de 2 semanas / 40 horas con el grupo docente Yo Emprendedor. Los temas incluyen: Oportunidades y Emprendimiento, Habilidades de Presentación, Modelo de Negocio, Finanzas & amp; Negociación, Legalización en Costa Rica Procedimientos Operativos Comerciales, Marketing y Servicio al Cliente, Opciones de Financiamiento, Proyecciones, Productos Comerciales y Servicios.
+
+Después de graduarse de los entrenamientos, a nuestros participantes se les ofrecen 10 meses de clases semanales de 2x con un instructor certificado TEFL, entrenamiento en redes sociales, un diseño de logotipo profesional, una sesión fotográfica profesional y apoyo continuo para ayudar al participante en sus negocios.
 
 ![](/uploads/2018/04/26/Viva-El-Sueno-Wanderlust-Realty-Nosara-53-1.jpg)
 
