@@ -5,5 +5,6 @@ masthead_image = ""
 phone_number = "(506) 8663-5552"
 teaser_image = "/uploads/2018/04/06/ukelele-surf.jpg"
 title = "Yohan Mendez Ruiz"
+external_url = "https://www.facebook.com/ukulelesurf/"
 
 +++

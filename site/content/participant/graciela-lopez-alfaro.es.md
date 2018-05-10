@@ -5,5 +5,6 @@ masthead_image = ""
 phone_number = "(506) 8405-2446"
 teaser_image = "/uploads/2018/04/06/la-cocina-de-graci-face.jpg"
 title = "Graciela Lopez Alfaro"
+external_url = "https://www.facebook.com/La-Cocina-de-Graci-1452161101702927"
 
 +++

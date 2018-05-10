@@ -3,9 +3,14 @@
 {{ partial "masthead" . }}
 <main class="page" role="main">
   <div class="participants">
-  {{ range where .Site.Pages.ByPublishDate "Section" "participant" }}
-    {{ if eq .Kind "page" }}
-      {{ .Render "teaser" }}
+  {{ range $graduation_year := .Site.Data.site.Graduation_Years }}
+    <h2>{{ $graduation_year }}</h2>
+    {{ range where $.Site.Pages.ByPublishDate "Section" "participant" }}
+      {{ if eq .Kind "page" }}
+        {{ if eq .Params.graduation_year $graduation_year }}
+          {{ .Render "teaser" }}
+        {{ end }}
+      {{ end }}
     {{ end }}
   {{ end }}
   </div>
