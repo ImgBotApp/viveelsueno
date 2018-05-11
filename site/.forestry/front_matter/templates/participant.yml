@@ -119,7 +119,7 @@ fields:
     source:
       type: datafiles
       file: site-yml
-      path: Graduation_Years
+      path: Years
     required: false
   label: Graduation Year
 - type: file
