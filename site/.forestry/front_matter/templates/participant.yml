@@ -1,5 +1,8 @@
 ---
 pages:
+- participant/sara-baltodano-lopez.es.md
+- participant/anadilsa-rosales-diaz.md
+- participant/karina-rosales-marchena.es.md
 - participant/maria-fernanda-alvarado-arrieta.es.md
 - participant/maria-fernanda-alvarado-arrieta.md
 - participant/giovanni-acedo.es.md
@@ -33,7 +36,6 @@ pages:
 - participant/eraida-diaz.es.md
 - participant/eraida-diaz.md
 - participant/ruth-juarez-cordoba.es.md
-- participant/sara-baltodano-lopez.es.md
 - participant/sara-baltodano-lopez.md
 - participant/ruth-juarez-cordoba.md
 - participant/pilar-montiel-noguera.es.md
@@ -54,13 +56,11 @@ pages:
 - participant/elizabeth-bran-rosales.es.md
 - participant/elizabeth-bran-rosales.md
 - participant/anadilsa-rosales-diaz.es.md
-- participant/anadilsa-rosales-diaz.md
 - participant/moises-lopez.es.md
 - participant/moises-lopez.md
 - participant/dayana-reyes-garcia.es.md
 - participant/hannia-and-nathalie-matarrita.md
 - participant/dayana-reyes-garcia.md
-- participant/karina-rosales-marchena.es.md
 - participant/karina-rosales-marchena.md
 - participant/federico-arrieta-villagra.es.md
 - participant/federico-arrieta-villagra.md
@@ -113,6 +113,15 @@ fields:
 - type: text
   name: external_url
   label: URL
+- type: select
+  name: graduation_year
+  config:
+    source:
+      type: datafiles
+      file: site-yml
+      path: Graduation_Years
+    required: false
+  label: Graduation Year
 - type: file
   name: teaser_image
   label: Teaser Image
