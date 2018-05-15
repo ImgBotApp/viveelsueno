@@ -1,6 +1,6 @@
 +++
 brand_name = "Drunken Monkey"
-date = "2018-05-15T15:57:58+00:00"
+date = "2018-05-15T15:57:58Z"
 external_url = ""
 graduation_year = 2016
 masthead_image = ""
