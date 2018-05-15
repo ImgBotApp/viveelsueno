@@ -6,5 +6,6 @@ masthead_image = ""
 phone_number = "(506) 8607-3804"
 teaser_image = "/uploads/2018/04/06/ronal-chorotega-sushi-face.jpg"
 title = "Ronald Campos Baltodano"
+graduation_year = 2017
 
 +++
