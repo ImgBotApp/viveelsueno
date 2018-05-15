@@ -2,10 +2,10 @@
 brand_name = "Soda Mapis"
 date = "2018-04-28T01:42:42Z"
 external_url = "https://www.facebook.com/SodaMapis"
+graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8968-1736"
 teaser_image = "/uploads/2018/04/28/pilar-montiel-noguera.jpg"
 title = "Pilar Montiel Noguera"
-graduation_year = 2018
 
 +++
