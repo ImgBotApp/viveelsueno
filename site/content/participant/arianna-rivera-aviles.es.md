@@ -7,5 +7,6 @@ phone_number = "(506) 8674-3627"
 teaser_image = "/uploads/2018/05/01/arianna-rivera-aviles.jpg"
 teaser_logo = ""
 title = "Arianna Rivera Avilés"
+graduation_year = 2018
 
 +++

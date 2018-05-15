@@ -7,5 +7,6 @@ phone_number = "(506) 8849-5270"
 teaser_image = "/uploads/2018/05/01/magda-dailey.jpg"
 teaser_logo = ""
 title = "Magda Dailey"
+graduation_year = 2018
 
 +++

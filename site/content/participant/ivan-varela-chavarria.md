@@ -8,5 +8,6 @@ phone_number = "(506) 8864-1532"
 teaser_image = "/uploads/2018/05/01/ivan-varela-chavarria.jpg"
 teaser_logo = ""
 title = "Ivan Varela Chavarria"
+graduation_year = 2018
 
 +++

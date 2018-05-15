@@ -7,5 +7,6 @@ phone_number = "(506) 8550-7622"
 teaser_image = "/uploads/2018/05/01/heidi-cordero-castillo.jpg"
 teaser_logo = ""
 title = "Heidi Cordero Castillo"
+graduation_year = 2018
 
 +++

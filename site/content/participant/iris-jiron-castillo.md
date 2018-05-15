@@ -6,5 +6,6 @@ masthead_image = ""
 phone_number = "(506) 8539-1974"
 teaser_image = "/uploads/2018/04/28/iris-jiron-castillo.jpg"
 title = "Iris Jiron Castillo"
+graduation_year = 2018
 
 +++

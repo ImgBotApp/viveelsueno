@@ -7,5 +7,6 @@ phone_number = "(506) 8688-1577"
 teaser_image = "/uploads/2018/05/01/maria-fernanda-alvarado-arrieta.jpg"
 teaser_logo = ""
 title = "Maria Fernanda Alvarado Arrieta"
+graduation_year = 2018
 
 +++

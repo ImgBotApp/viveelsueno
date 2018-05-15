@@ -6,5 +6,6 @@ masthead_image = "/uploads/2018/04/28/alicia-artavia-masthead.jpg"
 phone_number = "(506) 2682-0930"
 teaser_image = "/uploads/2018/04/28/alicia-artavia-avatar.jpg"
 title = "Alicia Artavia"
+graduation_year = 2018
 
 +++

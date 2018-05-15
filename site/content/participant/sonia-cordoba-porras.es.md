@@ -6,5 +6,6 @@ masthead_image = ""
 phone_number = "(506) 2682-0371"
 teaser_image = "/uploads/2018/04/28/sonia-cordoba-porras.jpg"
 title = "Sonia Córdoba Porras"
+graduation_year = 2018
 
 +++

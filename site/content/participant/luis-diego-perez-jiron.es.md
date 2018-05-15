@@ -7,5 +7,6 @@ phone_number = "(506) 8550-5438"
 teaser_image = "/uploads/2018/05/01/luis-diego-perez-jiron.jpg"
 teaser_logo = ""
 title = "Luis Diego Pérez Jirón"
+graduation_year = 2018
 
 +++

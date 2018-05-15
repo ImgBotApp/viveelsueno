@@ -6,5 +6,6 @@ masthead_image = ""
 phone_number = "(506) 2682-0371"
 teaser_image = "/uploads/2018/04/28/ruth-juarez-cordoba.jpg"
 title = "Ruth Juarez Cordoba"
+graduation_year = 2018
 
 +++

@@ -6,5 +6,6 @@ masthead_image = ""
 phone_number = "(506) 8968-1736"
 teaser_image = "/uploads/2018/04/28/pilar-montiel-noguera.jpg"
 title = "Pilar Montiel Noguera"
+graduation_year = 2018
 
 +++

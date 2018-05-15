@@ -7,5 +7,6 @@ phone_number = "(506) 8870-6414"
 teaser_image = "/uploads/2018/05/01/maria-zuniga-diaz.jpg"
 teaser_logo = ""
 title = "Maria Zuñiga Diaz"
+graduation_year = 2018
 
 +++
