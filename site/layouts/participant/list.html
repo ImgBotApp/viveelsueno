@@ -8,7 +8,18 @@
     {{ range where $.Site.Pages.ByPublishDate "Section" "participant" }}
       {{ if eq .Kind "page" }}
         {{ if eq .Params.graduation_year $graduation_year }}
-          {{ .Render "teaser" }}
+          {{ if ne .Params.phone_number "Unavailable" }}
+            {{ .Render "teaser" }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ range where $.Site.Pages.ByPublishDate "Section" "participant" }}
+      {{ if eq .Kind "page" }}
+        {{ if eq .Params.graduation_year $graduation_year }}
+          {{ if eq .Params.phone_number "Unavailable" }}
+            {{ .Render "teaser" }}
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}

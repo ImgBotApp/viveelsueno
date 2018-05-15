@@ -5,8 +5,10 @@
     {{ range where .Site.Pages.ByPublishDate "Section" "participant" }}
       {{ if eq .Kind "page" }}
         {{ if lt ($.Scratch.Get "c2") 8 }}
-          {{ .Render "teaser" }}
-          {{ $.Scratch.Add "c2" 1 }}
+          {{ if ne .Params.phone_number "Unavailable" }}
+            {{ .Render "teaser" }}
+            {{ $.Scratch.Add "c2" 1 }}
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}
