@@ -7,6 +7,6 @@ masthead_image = ""
 phone_number = "Unavailable"
 teaser_image = "/uploads/2018/05/15/carmen.png"
 teaser_logo = ""
-title = "Carmen Rosales Dinarte"
+title = "Carmen Rosales"
 
 +++
