@@ -2,12 +2,14 @@
   <h2 class="participants__title">{{ i18n "Our Participants" }}</h2>
   <div class="participants__list">
     {{ $.Scratch.Add "c2" 0 }}
-    {{ range where .Site.Pages.ByPublishDate "Section" "participant" }}
-      {{ if eq .Kind "page" }}
-        {{ if lt ($.Scratch.Get "c2") 8 }}
-          {{ if ne .Params.phone_number "Unavailable" }}
-            {{ .Render "teaser" }}
-            {{ $.Scratch.Add "c2" 1 }}
+    {{ range sort (sort .Site.Pages "Params.graduation_year" "desc") "Params.title" "asc" }}
+      {{ if eq .Section "participant" }}
+        {{ if eq .Kind "page" }}
+          {{ if lt ($.Scratch.Get "c2") 8 }}
+            {{ if ne .Params.phone_number "Unavailable" }}
+              {{ .Render "teaser" }}
+              {{ $.Scratch.Add "c2" 1 }}
+            {{ end }}
           {{ end }}
         {{ end }}
       {{ end }}
