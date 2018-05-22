@@ -1,6 +1,6 @@
 +++
 brand_name = "Creaciones Yesi"
-date = "2018-05-15T14:57:00+00:00"
+date = "2018-05-15T14:57:00Z"
 external_url = ""
 graduation_year = 2016
 masthead_image = ""

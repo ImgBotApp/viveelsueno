@@ -1,6 +1,6 @@
 +++
 brand_name = "Creaciones Los Angeles"
-date = "2018-05-15T14:58:30+00:00"
+date = "2018-05-15T14:58:30Z"
 external_url = ""
 graduation_year = 2016
 masthead_image = ""

@@ -1,6 +1,6 @@
 +++
 brand_name = "Pura Vida Nosara ATV Rentals"
-date = "2018-05-15T14:52:42+00:00"
+date = "2018-05-15T14:52:42Z"
 external_url = ""
 graduation_year = 2016
 masthead_image = ""
