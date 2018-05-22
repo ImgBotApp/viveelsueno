@@ -66,9 +66,10 @@ h2.participants__title {
   height: 75px;
   bottom: 0;
   right: -25px;
-  background-size: cover;
+  background-size: 65px 65px;
+  background-repeat: no-repeat;
   background-position: center;
-  background-color: #eee;
+  background-color: #fff;
   box-shadow: 0 0 30px 0 #000;
 }
 
