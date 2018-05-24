@@ -1,27 +1,4 @@
 ---
-pages:
-- participant/maritza-sanchez.es.md
-- participant/maritza-sanchez.md
-- participant/juan-carlos.es.md
-- participant/juan-carlos.md
-- participant/carmen-rosales-dinarte.es.md
-- participant/carmen-rosales-dinarte.md
-- participant/cinthya-rosales.es.md
-- participant/cinthya-rosales.md
-- participant/ana-rosales.es.md
-- participant/ana-rosales.md
-- participant/edith-quiros-avila.es.md
-- participant/edith-quiros-avila.md
-- participant/yisenia-rojas-bolanos.es.md
-- participant/yisenia-rojas-bolanos.md
-- participant/ricardo-moraga.es.md
-- participant/ricardo-moraga.md
-- participant/isa-obando.es.md
-- participant/isa-obando.md
-- participant/ileana-aviles.es.md
-- participant/ileana-aviles.md
-- participant/warner-gerardo.es.md
-- participant/warner-gerardo.md
 hide_body: false
 is_partial: false
 fields:
@@ -65,3 +42,26 @@ fields:
   label: Masthead Image
   config:
     maxSize: '2'
+pages:
+- participant/maritza-sanchez.es.md
+- participant/maritza-sanchez.md
+- participant/juan-carlos.es.md
+- participant/juan-carlos.md
+- participant/carmen-rosales-dinarte.es.md
+- participant/carmen-rosales-dinarte.md
+- participant/cinthya-rosales.es.md
+- participant/cinthya-rosales.md
+- participant/ana-rosales.es.md
+- participant/ana-rosales.md
+- participant/edith-quiros-avila.es.md
+- participant/edith-quiros-avila.md
+- participant/yisenia-rojas-bolanos.es.md
+- participant/yisenia-rojas-bolanos.md
+- participant/ricardo-moraga.es.md
+- participant/ricardo-moraga.md
+- participant/isa-obando.es.md
+- participant/isa-obando.md
+- participant/ileana-aviles.es.md
+- participant/ileana-aviles.md
+- participant/warner-gerardo.es.md
+- participant/warner-gerardo.md
