@@ -6,6 +6,7 @@ graduation_year = 2017
 masthead_image = ""
 phone_number = "(506) 6081-5941"
 teaser_image = "/uploads/2018/04/06/color-violeta-face.jpg"
+teaser_logo = "/uploads/2018/05/22/color-violeta-logo.jpg"
 title = "Leda Patricia Matarrita Arroya"
 
 +++
