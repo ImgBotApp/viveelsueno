@@ -5,7 +5,7 @@
   <div class="participants">
   {{ range $graduation_year := .Site.Data.site.Years }}
     <h2>{{ $graduation_year }}</h2>
-    {{ range where $.Site.Pages.ByPublishDate "Section" "participant" }}
+    {{ range sort (where $.Site.Pages.ByPublishDate "Section" "participant") "Params.title" "asc" }}
       {{ if eq .Kind "page" }}
         {{ if eq .Params.graduation_year $graduation_year }}
           {{ if ne .Params.phone_number "Unavailable" }}
@@ -14,7 +14,7 @@
         {{ end }}
       {{ end }}
     {{ end }}
-    {{ range where $.Site.Pages.ByPublishDate "Section" "participant" }}
+    {{ range sort (where $.Site.Pages.ByPublishDate "Section" "participant") "Params.title" "asc" }}
       {{ if eq .Kind "page" }}
         {{ if eq .Params.graduation_year $graduation_year }}
           {{ if eq .Params.phone_number "Unavailable" }}
