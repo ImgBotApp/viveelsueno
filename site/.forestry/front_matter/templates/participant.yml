@@ -43,6 +43,7 @@ fields:
   config:
     maxSize: '2'
 pages:
+- participant/ileana-aviles.md
 - participant/maritza-sanchez.es.md
 - participant/maritza-sanchez.md
 - participant/juan-carlos.es.md
@@ -62,6 +63,5 @@ pages:
 - participant/isa-obando.es.md
 - participant/isa-obando.md
 - participant/ileana-aviles.es.md
-- participant/ileana-aviles.md
 - participant/warner-gerardo.es.md
 - participant/warner-gerardo.md
