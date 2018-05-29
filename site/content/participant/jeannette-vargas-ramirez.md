@@ -6,7 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8840-8392"
 teaser_image = "/uploads/2018/05/01/jeanette-vargas-ramirez.jpg"
-teaser_logo = ""
+teaser_logo = "/uploads/2018/05/29/jiron-transportes.jpg"
 title = "Jeannette Vargas Ramirez"
 
 +++

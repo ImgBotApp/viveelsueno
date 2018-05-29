@@ -6,7 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8550-7622"
 teaser_image = "/uploads/2018/05/01/heidi-cordero-castillo.jpg"
-teaser_logo = ""
+teaser_logo = "/uploads/2018/05/29/sabor-de-la-montaña.jpg"
 title = "Heidi Cordero Castillo"
 
 +++

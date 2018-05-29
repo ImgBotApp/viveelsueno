@@ -6,6 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 7151-2656"
 teaser_image = "/uploads/2018/04/28/sara-baltodano-lopez.jpg"
+teaser_logo = "/uploads/2018/05/29/4life-2.jpg"
 title = "Sara Baltodano Lopez"
 
 +++

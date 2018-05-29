@@ -6,7 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8357-0903"
 teaser_image = "/uploads/2018/05/01/heiner-diaz-matarrita.jpg"
-teaser_logo = ""
+teaser_logo = "/uploads/2018/05/29/heyners-multifunctional.jpg"
 title = "Heiner Díaz Matarrita"
 
 +++

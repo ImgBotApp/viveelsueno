@@ -6,6 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8539-1974"
 teaser_image = "/uploads/2018/04/28/iris-jiron-castillo.jpg"
+teaser_logo = "/uploads/2018/05/29/cleaning-in-home-experts.jpg"
 title = "Iris Jiron Castillo"
 
 +++
