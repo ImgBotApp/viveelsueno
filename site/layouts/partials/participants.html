@@ -2,7 +2,7 @@
   <h2 class="participants__title">{{ i18n "Our Participants" }}</h2>
   <div class="participants__list">
     {{ $pages := .Site.GetPage "page" "participant" }}
-    {{ range sort ($pages.Resources.ByType "page") "Params.graduation_year" "desc" }}
+    {{ range first 8 (sort ($pages.Resources.ByType "page") "Params.graduation_year" "desc") }}
       <div class="participant__teaser">
         {{ if .Params.external_url }}
         <a class="participant__teaser-link" target="_blank" href="{{ .Params.external_url }}">
