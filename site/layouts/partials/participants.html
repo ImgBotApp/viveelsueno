@@ -1,18 +1,22 @@
 <div class="participants">
   <h2 class="participants__title">{{ i18n "Our Participants" }}</h2>
   <div class="participants__list">
-    {{ $.Scratch.Add "c2" 0 }}
-    {{ range sort (sort .Site.Pages "Params.graduation_year" "desc") "Params.title" "asc" }}
-      {{ if eq .Section "participant" }}
-        {{ if eq .Kind "page" }}
-          {{ if lt ($.Scratch.Get "c2") 8 }}
-            {{ if ne .Params.phone_number "Unavailable" }}
-              {{ .Render "teaser" }}
-              {{ $.Scratch.Add "c2" 1 }}
-            {{ end }}
-          {{ end }}
+    {{ $pages := .Site.GetPage "page" "participant" }}
+    {{ range sort ($pages.Resources.ByType "page") "Params.graduation_year" "desc" }}
+      <div class="participant__teaser">
+        {{ if .Params.external_url }}
+        <a class="participant__teaser-link" target="_blank" href="{{ .Params.external_url }}">
         {{ end }}
-      {{ end }}
+          <div class="lazy participant__teaser-image" data-src="{{ .Params.teaser_image }}">
+            <div class="lazy participant__teaser-logo" data-src='{{ if and (ne .Params.teaser_logo "") (isset .Params "teaser_logo") }}{{ .Params.teaser_logo }}{{ else }}/img/Graduate.png{{ end }}'></div>
+          </div>
+          <h3 class="participant__teaser-title">{{ .Title }}</h3>
+          <div class="participant__teaser-business">{{ .Params.brand_name }}</div>
+          <div class="participant__teaser-phone">{{ .Params.phone_number }}</div>
+        {{ if .Params.external_url }}
+        </a>
+        {{ end }}
+      </div>
     {{ end }}
   </div>
   <a class="button" href='{{ "/participant" | relLangURL }}'>{{ i18n "find more participants" }}</a>
