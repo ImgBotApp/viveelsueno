@@ -6,7 +6,7 @@ graduation_year = 2018
 masthead_image = ""
 phone_number = "(506) 8667-4044"
 teaser_image = "/uploads/2018/05/01/eraida-diaz.jpg"
-teaser_logo = ""
+teaser_logo = "/uploads/2018/05/29/remodelaciones.jpg"
 title = "Eraida Diaz"
 
 +++
