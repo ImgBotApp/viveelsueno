@@ -8,5 +8,6 @@ phone_number = "(506) 8893-1450"
 teaser_image = "/uploads/2018/04/06/la-casa-de-la-agua-y-el-hilo-face.jpg"
 teaser_logo = "/uploads/2018/05/22/la-casa-de-la-agua-y-el-hilo-logo.png"
 title = "Isidora Rojas Cambronero"
+sitemap_exclude = true
 
 +++

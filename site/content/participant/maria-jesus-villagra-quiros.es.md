@@ -8,5 +8,6 @@ phone_number = "(506) 2682-0216"
 teaser_image = "/uploads/2018/05/01/maria-jesus-villagra-quiros.jpg"
 teaser_logo = "/uploads/2018/05/29/4life-1.jpg"
 title = "Maria Jesus Villagra Quiros"
+sitemap_exclude = true
 
 +++

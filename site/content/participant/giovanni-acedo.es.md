@@ -8,5 +8,6 @@ phone_number = "(506) 8551-1093"
 teaser_image = "/uploads/2018/05/01/giovanni-acedo.jpg"
 teaser_logo = "/uploads/2018/05/29/tarzan-foods.jpg"
 title = "Giovanni Acedo"
+sitemap_exclude = true
 
 +++

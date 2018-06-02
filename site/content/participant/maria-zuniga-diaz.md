@@ -8,5 +8,6 @@ phone_number = "(506) 8870-6414"
 teaser_image = "/uploads/2018/05/01/maria-zuniga-diaz.jpg"
 teaser_logo = "/uploads/2018/05/29/tijeras-magicas.jpg"
 title = "Maria Zuñiga Diaz"
+sitemap_exclude = true
 
 +++

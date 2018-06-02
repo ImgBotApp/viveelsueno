@@ -7,5 +7,6 @@ phone_number = "(506) 8671-6566"
 teaser_image = "/uploads/2018/04/06/productos-de-limpieza-marley-face.jpg"
 teaser_logo = "/uploads/2018/05/22/productos-de-limpieza-marley-logo.jpg"
 title = "Marley Obando"
+sitemap_exclude = true
 
 +++

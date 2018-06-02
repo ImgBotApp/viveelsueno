@@ -8,5 +8,6 @@ phone_number = "Unavailable"
 teaser_image = "/uploads/2018/05/15/edith.png"
 teaser_logo = "/uploads/2018/05/26/edith-logo.png"
 title = "Edith Quirós"
+sitemap_exclude = true
 
 +++

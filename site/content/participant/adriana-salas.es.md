@@ -9,5 +9,6 @@ phone_number = "Unavailable"
 teaser_image = ""
 teaser_logo = "/uploads/2018/05/29/soda-adri.jpg"
 title = "Adriana Salas"
+sitemap_exclude = true
 
 +++

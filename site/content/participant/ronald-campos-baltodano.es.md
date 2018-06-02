@@ -8,5 +8,6 @@ phone_number = "(506) 8607-3804"
 teaser_image = "/uploads/2018/04/06/ronal-chorotega-sushi-face.jpg"
 teaser_logo = "/uploads/2018/05/22/ronal-chorotega-sushi-logo.jpg"
 title = "Ronald Campos Baltodano"
+sitemap_exclude = true
 
 +++

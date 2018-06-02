@@ -8,5 +8,6 @@ phone_number = "(506) 8599-3193"
 teaser_image = "/uploads/2018/05/01/erika-rojas-cambronero.jpg"
 teaser_logo = "/uploads/2018/05/29/joer.jpg"
 title = "Erika Rojas Cambronero"
+sitemap_exclude = true
 
 +++

@@ -7,5 +7,6 @@ phone_number = "(506) 8463-7299"
 teaser_image = "/uploads/2018/05/01/elena-gomez.jpg"
 teaser_logo = ""
 title = "Elena Gomez"
+sitemap_exclude = true
 
 +++

@@ -8,5 +8,6 @@ phone_number = "(506) 8919-5574"
 teaser_image = "/uploads/2018/05/15/juan.png"
 teaser_logo = "/uploads/2018/05/26/juan-logo.png"
 title = "Juan Carlos"
+sitemap_exclude = true
 
 +++

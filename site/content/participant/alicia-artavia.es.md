@@ -8,5 +8,6 @@ phone_number = "(506) 2682-0930"
 teaser_image = "/uploads/2018/04/28/alicia-artavia-avatar.jpg"
 teaser_logo = "/uploads/2018/05/29/el-flaco.jpg"
 title = "Alicia Artavia"
+sitemap_exclude = true
 
 +++

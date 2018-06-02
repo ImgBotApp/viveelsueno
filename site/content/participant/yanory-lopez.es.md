@@ -9,5 +9,6 @@ phone_number = "Unavailable"
 teaser_image = ""
 teaser_logo = ""
 title = "Yanory Lopez"
+sitemap_exclude = true
 
 +++

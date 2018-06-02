@@ -8,5 +8,6 @@ phone_number = "(506) 8968-1736"
 teaser_image = "/uploads/2018/04/28/pilar-montiel-noguera.jpg"
 teaser_logo = "/uploads/2018/05/29/soda-mapis.jpg"
 title = "Pilar Montiel Noguera"
+sitemap_exclude = true
 
 +++

@@ -7,5 +7,6 @@ phone_number = "(506) 8899-9447"
 teaser_image = "/uploads/2018/04/06/elizabeth-bran-rosales-face.jpg"
 teaser_logo = "/uploads/2018/05/22/elizabeth-bran-rosales-logo.jpg"
 title = "Elizabeth Bran Rosales"
+sitemap_exclude = true
 
 +++

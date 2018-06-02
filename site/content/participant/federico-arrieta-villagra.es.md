@@ -7,5 +7,6 @@ phone_number = "(506) 8403-8880"
 teaser_image = "/uploads/2018/04/06/piscinas-claras-fede-face.jpg"
 teaser_logo = "/uploads/2018/05/22/piscinas-claras-fede-logo.png"
 title = "Federico Arrieta Villagra"
+sitemap_exclude = true
 
 +++

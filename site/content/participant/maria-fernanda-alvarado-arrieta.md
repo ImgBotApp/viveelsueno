@@ -8,5 +8,6 @@ phone_number = "(506) 8688-1577"
 teaser_image = "/uploads/2018/05/01/maria-fernanda-alvarado-arrieta.jpg"
 teaser_logo = "/uploads/2018/05/29/nosara-beauty-salon.jpg"
 title = "Maria Fernanda Alvarado Arrieta"
+sitemap_exclude = true
 
 +++

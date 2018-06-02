@@ -8,5 +8,6 @@ phone_number = "Unavailable"
 teaser_image = "/uploads/2018/05/15/ricardo.png"
 teaser_logo = "/uploads/2018/05/26/ricardo-logo.png"
 title = "Ricardo Moraga"
+sitemap_exclude = true
 
 +++

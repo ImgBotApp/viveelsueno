@@ -8,5 +8,6 @@ phone_number = "Unavailable"
 teaser_image = "/uploads/2018/05/15/isa.png"
 teaser_logo = "/uploads/2018/05/26/isa-logo.png"
 title = "Isa Obando"
+sitemap_exclude = true
 
 +++

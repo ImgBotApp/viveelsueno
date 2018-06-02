@@ -9,5 +9,6 @@ phone_number = "Unavailable"
 teaser_image = ""
 teaser_logo = ""
 title = "Paul Zuñiga"
+sitemap_exclude = true
 
 +++

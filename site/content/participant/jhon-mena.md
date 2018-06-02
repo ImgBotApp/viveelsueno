@@ -9,5 +9,6 @@ phone_number = "Unavailable"
 teaser_image = ""
 teaser_logo = ""
 title = "Jhon Mena"
+sitemap_exclude = true
 
 +++

@@ -8,5 +8,6 @@ phone_number = "Unavailable"
 teaser_image = "/uploads/2018/05/15/yisenia.png"
 teaser_logo = "/uploads/2018/05/26/yisenia-logo.png"
 title = "Yisenia Rojas"
+sitemap_exclude = true
 
 +++

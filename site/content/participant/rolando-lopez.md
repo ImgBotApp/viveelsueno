@@ -9,5 +9,6 @@ phone_number = "Unavailable"
 teaser_image = ""
 teaser_logo = ""
 title = "Rolando Lopez"
+sitemap_exclude = true
 
 +++
