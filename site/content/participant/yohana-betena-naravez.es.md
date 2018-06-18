@@ -8,5 +8,6 @@ phone_number = "(506) 8544-5859"
 teaser_image = "/uploads/2018/04/06/y-and-b-1.jpg"
 teaser_logo = "/uploads/2018/05/22/y-and-b-cleaning-services-logo.jpg"
 title = "Yohana Beteta Narvaez"
+sitemap_exclude = true
 
 +++

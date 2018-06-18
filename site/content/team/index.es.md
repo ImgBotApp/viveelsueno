@@ -1,4 +1,0 @@
-+++
-sitemap_exclude = true
-
-+++
