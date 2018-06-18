@@ -1,5 +1,4 @@
 +++
-headless = true
-title = ""
+sitemap_exclude = true
 
 +++
