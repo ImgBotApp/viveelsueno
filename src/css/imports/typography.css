@@ -1,5 +1,7 @@
 html, body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
   font-family: 'Nunito Sans', sans-serif;
 }
