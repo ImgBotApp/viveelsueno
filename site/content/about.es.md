@@ -9,13 +9,13 @@ Vive El Sueño, con sede en Nosara, Costa Rica, es un programa de empoderamiento
 
 Si bien el auge en el turismo y el desarrollo de la tierra parece haber traído mejoras significativas en la calidad de vida en Nosara, las investigaciones recientemente publicadas muestran que el 25% de las familias aún viven en la pobreza. Hasta 2011, hasta el 48% de los hogares en Nosara y Samara todavía carecían de al menos una necesidad básica. Creemos que las pequeñas empresas proporcionan un camino muy necesario para el empoderamiento financiero.
 
-Metas de Vive el Sueño
+## Metas de Vive el Sueño
 
 Proporcionar talleres educativos sobre temas como Emprendimiento, Finanzas, Marketing, Administración, Clases de inglés y Coaching de vida que apoyarán la apertura de nuevas pequeñas empresas y aumentarán la elegibilidad para puestos de alto nivel en empresas existentes.
 
 Proporcionar tutoría constante a los Participantes del Programa para fomentar el crecimiento continuo en sus negocios. Conecte a los propietarios de empresas emergentes con recursos cruciales, como subvenciones, préstamos y servicios profesionales.
 
-Nuestro programa
+## Nuestro programa
 
 Vive el Sueño ofrece a los costarricenses locales que desean abrir o hacer crecer su propio negocio una capacitación empresarial intensiva de 2 semanas / 40 horas con el grupo docente Yo Emprendedor. Los temas incluyen: Oportunidades y Emprendimiento, Habilidades de Presentación, Modelo de Negocio, Finanzas & amp; Negociación, Legalización en Costa Rica Procedimientos Operativos Comerciales, Marketing y Servicio al Cliente, Opciones de Financiamiento, Proyecciones, Productos Comerciales y Servicios.
 
