@@ -1,7 +1,5 @@
 ---
-pages:
-- _index.es.md
-- _index.md
+label: home-page
 hide_body: false
 is_partial: false
 fields:
@@ -97,3 +95,6 @@ fields:
       label: Blurb
       config:
         wysiwyg: true
+pages:
+- site/content/_index.md
+- site/content/_index.es.md

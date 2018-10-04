@@ -1,9 +1,34 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: 
+admin_path: ''
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: site/content/participant
+  label: Participant
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/sponsor
+  label: Sponsor
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/success-story
+  label: Success story
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/team
+  label: Team
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: site/static/uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -1,9 +1,5 @@
 ---
-pages:
-- about.es.md
-- about.md
-- donate.md
-- donate.es.md
+label: content-page
 hide_body: false
 is_partial: false
 fields:
@@ -15,3 +11,6 @@ fields:
   label: Masthead Image
   config:
     maxSize: '1'
+pages:
+- site/content/about.md
+- site/content/about.es.md
