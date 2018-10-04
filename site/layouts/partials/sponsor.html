@@ -2,7 +2,9 @@
   <h2 class="sponsor__title">{{ i18n "Our Sponsors" }}</h2>
   <div class="sponsor__list">
     {{ range where .Site.Pages "Section" "sponsor" }}
+      {{ if eq .Kind "page" }}
       {{ .Render "teaser" }}
+      {{ end }}
     {{ end }}
   </div>
 </div>
