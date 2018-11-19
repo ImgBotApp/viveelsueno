@@ -15,6 +15,10 @@ fields:
   config:
     maxSize: '2'
 pages:
+- site/content/sponsor/edunamica-asociacion.es.md
+- site/content/sponsor/garza-beach-lounge.es.md
+- site/content/sponsor/the-harmony-hotel.es.md
+- site/content/sponsor/the-harmony-hotel.md
 - site/content/sponsor/el-chivo5.md
 - site/content/sponsor/el-chivo4.md
 - site/content/sponsor/el-chivo3.md
@@ -43,10 +47,7 @@ pages:
 - site/content/sponsor/organico-deli-market.md
 - site/content/sponsor/organico-deli-market.es.md
 - site/content/sponsor/garza-beach-lounge.md
-- site/content/sponsor/garza-beach-lounge.es.md
 - site/content/sponsor/yo-emprendedor.md
-- site/content/sponsor/the-harmony-hotel.md
-- site/content/sponsor/the-harmony-hotel.es.md
 - site/content/sponsor/bazzar.md
 - site/content/sponsor/bazzar.es.md
 - site/content/sponsor/fondo-para-guanacaste-community-fund.md
@@ -56,6 +57,5 @@ pages:
 - site/content/sponsor/prove-nothing.md
 - site/content/sponsor/prove-nothing.es.md
 - site/content/sponsor/edunamica-asociacion.md
-- site/content/sponsor/edunamica-asociacion.es.md
 - site/content/sponsor/yo-emprendedor.es.md
 - site/content/sponsor/go-juice.md

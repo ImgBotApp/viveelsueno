@@ -44,8 +44,8 @@ fields:
   config:
     maxSize: '2'
 pages:
-- site/content/participant/yisenia-rojas-bolanos.md
 - site/content/participant/yisenia-rojas-bolanos.es.md
+- site/content/participant/yisenia-rojas-bolanos.md
 - site/content/participant/warner-gerardo.es.md
 - site/content/participant/ricardo-moraga.es.md
 - site/content/participant/ricardo-moraga.md
