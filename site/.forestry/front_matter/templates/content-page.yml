@@ -12,5 +12,5 @@ fields:
   config:
     maxSize: '1'
 pages:
-- site/content/about.md
 - site/content/about.es.md
+- site/content/about.md

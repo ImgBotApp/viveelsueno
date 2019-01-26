@@ -96,5 +96,5 @@ fields:
       config:
         wysiwyg: true
 pages:
-- site/content/_index.es.md
 - site/content/_index.md
+- site/content/_index.es.md
