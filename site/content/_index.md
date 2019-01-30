@@ -5,7 +5,7 @@ subtitle = "Empowering Tico Entrepreneurs."
 title = "Vive el Sueño"
 type = "homepage"
 [blurb]
-text = "Vive El Sueño, based in Nosara, Costa Rica, is an educational and financial empowerment program that aims to give Costa Rican nationals (Ticos) the skills, mentorship, and tools to open and sustain their own small businesses as a path to improved standards of living and financial independence."
+text = "Vive El Sueño, based in Nosara, Costa Rica, is an educational and financial empowerment program that aims to give Costa Rican nationals (Ticos) the skills, mentorship, and tools to open and sustain their own small businesses as a path to improved standards of living and financial independence<br/>test."
 [blurb.button]
 text = "learn more"
 url = "/about"
