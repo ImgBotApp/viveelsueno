@@ -95,6 +95,16 @@ fields:
       label: Blurb
       config:
         wysiwyg: true
+  - type: field_group
+    name: button
+    label: Button
+    fields:
+    - type: text
+      name: url
+      label: URL
+    - type: text
+      name: text
+      label: Text
 pages:
 - site/content/_index.md
 - site/content/_index.es.md
