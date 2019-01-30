@@ -12,6 +12,9 @@ url = "/about"
 [call_to_action_button]
 label = "Make a donation"
 link = "#donate"
+[program.button]
+text = ""
+url = ""
 [program.item_1]
 blurb = "Participants are offered a 40 hour / 2 week intensive business training by teaching group Yo Emprendedor at the David Kitson Library."
 title = "Intensive Business Training"
@@ -26,3 +29,4 @@ blurb = "Participants are offered one on one social media sessions where they ar
 title = "Social Media and Ongoing Support"
 
 +++
+[https://www.viveelsuenocr.org/uploads/2019/01/26/VES-directory-updated-jan.pdf](https://www.viveelsuenocr.org/uploads/2019/01/26/VES-directory-updated-jan.pdf "Vive el Sueño Business Directory")
