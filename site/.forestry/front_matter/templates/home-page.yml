@@ -1,7 +1,6 @@
 ---
 label: home-page
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Title
