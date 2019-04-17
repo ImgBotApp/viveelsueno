@@ -24,12 +24,13 @@
 }
 
 .nav__logo {
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
 }
 
 .nav__links {
   float: right;
+  margin-top: .5rem;
   display: none;
 
   @media (min-width: 720px) {
@@ -59,6 +60,7 @@
 .nav__socials {
   float: right;
   margin-left: 2rem;
+  margin-top: .5rem;
   display: none;
 
   @media (min-width: 720px) {

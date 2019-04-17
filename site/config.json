@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://www.viveelsuenocr.org/",
+  "baseURL": "http://localhost:3000/",
   "title": "Vive el Sueño",
   "disableKinds": [
     "RSS",

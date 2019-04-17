@@ -1,11 +1,11 @@
 .participants {
   max-width: 960px;
-  margin: 4rem auto;
+  margin: 8rem auto;
   font-size: 1rem;
 }
 
 h2.participants__title {
-  margin: 0 auto;
+  margin: 2rem auto;
 }
 
 .participant__teaser {
@@ -75,4 +75,5 @@ h2.participants__title {
 
 .participants .button {
   font-size: 1rem;
+  margin-bottom: 1rem;
 }
